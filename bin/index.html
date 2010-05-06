@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>moritz.stefaner.eu - revisit</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+        <script type="text/javascript" src="lib/jquery.js">
+        </script>
+        <script type="text/javascript" src="lib/swfobject/swfobject.js">
+        </script>
+        <script src="lib/swfaddress/swfaddress.js" type="text/javascript" charset="utf-8">
+        </script>
+        <script type="text/javascript">
+            var paramNames = ["searchterms", "appTitle", "maxItems", "showOnlyToday"];
+            
+            function embedFlash(params){
+            
+                var defaults = {
+                    searchterms: "infosthetics,flowingdata,visualcomplexity,from:datavis,to:datavis",
+                    appTitle: "demo",
+                    maxItems: 200,
+					//twitterProxyURL : "your twitter proxy URL",
+                    showOnlyToday: "false"
+                };
+                
+                var flashvars = {};
+                var paramName;
+                for (var i = 0; i < paramNames.length; i++) {
+                    paramName = paramNames[i];
+                    if (i < params.length) {
+                        flashvars[paramName] = decodeURIComponent(params[i]);
+                    }
+                    else {
+                        flashvars[paramName] = defaults[paramName];
+                    }
+                }
+                
+                $("#searchterms").val(flashvars.searchterms);
+                if (flashvars.appTitle != "demo") 
+                    $("#appTitle").val(flashvars.appTitle);
+                $("#maxItems").val(flashvars.maxItems);
+                $("#showOnlyToday").attr("checked", flashvars.showOnlyToday == "true" ? "checked" : "");
+                
+                var URL = "revisit.swf";
+                var flashID = "flash";
+                var width = "100%";
+                var height = "100%";
+                var flashVersion = "10.0.0";
+                var expressInstallURL = "lib/swfobject/expressInstall.swf";
+                
+                
+                var params = {
+                    allowfullscreen: "true",
+                    salign: "tl"
+                };
+                
+                var attributes = {};
+                
+                swfobject.embedSWF(URL, flashID, width, height, flashVersion, expressInstallURL, flashvars, params, attributes);
+                SWFAddress.setTitle("moritz.stefaner.eu - revisit - " + (flashvars.appTitle ? flashvars.appTitle : flashvars.searchterms));
+            }
+            
+            var handleChange = function(event){
+                embedFlash(event.pathNames);
+            }
+            
+            SWFAddress.addEventListener(SWFAddressEvent.CHANGE, handleChange);
+            
+            $(document).ready(function(){
+                $("#customize").bind("submit", function(event){
+                    event.preventDefault();
+                    event.stopPropagation();
+                    var params = [];
+                    var searchterms = clean($("#searchterms").val());
+                    var appTitle = clean($("#appTitle").val());
+                    var maxItems = parseNumber($("#maxItems").val());
+                    var showOnlyToday = $("#showOnlyToday:checked").length == 1;
+                    
+                    params.push(searchterms);
+                    params.push(appTitle);
+                    params.push(maxItems);
+                    params.push(showOnlyToday);
+                    
+                    SWFAddress.setValue(params.join("/"));
+                    return false;
+                });
+            });
+            
+            function clean(s){
+                s = encodeURIComponent(s);
+                s = s.replace("/", "");
+                return s;
+            }
+            
+            function parseNumber(s){
+                s = parseInt(s);
+                return (isNaN(s) ? "" : s);
+            }
+        </script>
+    </head>
+    <body style="margin:0; padding:0; background:#000000;">
+        <div id="flashcontainer">
+            <div id="flash">
+                <a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /></a>
+            </div>
+        </div>
+        <form id="customize">
+            <fieldset class="customize">
+                <div class="header">
+                    <p>
+                        <strong>Revisit</strong>
+                        is a real-time visualization of the latest twitter messages (<em>tweets</em>) around a specific topic. Use it  create your own twitter wall at a conference or an ambient display at your company or whatever other idea you come up with. In contrast to other twitterwalls, it provides a sense of the temporal dynamics in the twitter stream, and emphasizes the conversational threads established by <em>retweets</em>
+                        and <em>@replies</em>.
+                        <br>
+                        <br>
+                        › <a href="http://moritz.stefaner.eu/projects/revisit-twitter-visualization/">more information</a>
+                    </p>
+                </div>
+                <div class="header">
+                    <h2>Customize</h2>
+                </div>
+                <div class="option">
+                    <label for="searchterms" class="title">
+                        Search terms
+                    </label>
+                    <input type="text" id="searchterms">
+                    <div class="description">
+                        Enter the terms you want to search for, using the <a href="http://search.twitter.com/operators">Twitter search syntax</a>
+                    </div>
+                </div>
+                <div class="option">
+                    <label for="appTitle" class="title">
+                        Title
+                    </label>
+                    <input type="text" id="appTitle">
+                    <div class="description">
+                        The title to be displayed on top. If left empty, the search terms will be used.
+                    </div>
+                </div>
+                <div class="option">
+                    <label for="maxItems" class="title">
+                        Maximum number of tweets
+                    </label>
+                    <input type="text" id="maxItems">
+                    <div class="description">
+                        This depends on the performance of your machine. Around 200 should work fine.
+                    </div>
+                </div>
+                <div class="option">
+                    <input type="checkbox" id="showOnlyToday">
+                    <label for="showOnlyToday" class="title">
+                        Show only tweets from today
+                    </label>
+                    <div class="description">
+                        Shows only tweets from today, 7am or later (great for events).
+                    </div>
+                </div>
+                <button type="submit">
+                    › GO
+                </button>
+            </fieldset>
+        </form>
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-7443601-1");
+                pageTracker._trackPageview();
+            } 
+            catch (err) {
+            }
+        </script>
+    </body>
+</html>

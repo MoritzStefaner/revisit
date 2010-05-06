@@ -1,0 +1,29 @@
+revisit
+
+a real-time visualization of the latest twitter messages (tweets) around a specific topic. Use it create your own twitter wall at a conference or an ambient display at your company or whatever other idea you come up with. In contrast to other twitterwalls, it provides a sense of the temporal dynamics in the twitter stream, and emphasizes the conversational threads established by retweets and @replies.
+
+Find more info at http://moritz.stefaner.eu/projects/revisit-twitter-visualization/
+
+--
+
+If you want to use this distribution to create an installation or a twitter wall, just customize bin/index_standalone.html according to your needs. Some caveats: The "showOnlyToday" option does not recognize when you run the installtion for multiple days. Also, I have not tested extensively for memory leaks etc. so you might have to restart the installation every other day or so.
+
+--
+
+If you want to embed it into your website:
+
+* install the twitterproxy php files on your web server
+http://wiki.swfjunkie.com/tweetr
+direct download:
+http://wiki.swfjunkie.com/_media/tweetr:tweetr_1.0b2_proxy.zip
+
+* change line 118 in Tweetr.php to 
+$twitterURL = 'http://search.twitter.com'.str_replace($this->baseURL,'',$this->url['path']);
+
+* provide a twitterProxyURL parameter pointing to your twitterproxy installation in bin/index.html
+
+* upload the bin directory to your webserver
+
+--
+
+enjoy! direct questions to moritz@stefaner.eu
