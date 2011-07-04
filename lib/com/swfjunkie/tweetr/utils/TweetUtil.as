@@ -302,9 +302,9 @@ package com.swfjunkie.tweetr.utils {
 			var seconds : Number; 
 			var timezone : Number;
 			
-			if (created_at.match(/\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z/g).length == 1) {
+			if (created_at.match(/\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z/g).length == 1 || created_at.match(/\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/g).length == 1) {
 				// match 2008-12-07T16:24:24Z
-				tp = created_at.split(/[-T:Z]/g);
+				tp = created_at.split(/[-T:Z]|\ /g);
 				year = tp[0];
 				month = tp[1];
 				date = tp[2];
@@ -350,7 +350,7 @@ package com.swfjunkie.tweetr.utils {
 			}
 			
 			time.setUTCFullYear(year, month, date);
-			time.setUTCHours(hour, minutes, seconds);
+			time.setUTCHours(hour-5, minutes, seconds);
 			return time;
 		}
 

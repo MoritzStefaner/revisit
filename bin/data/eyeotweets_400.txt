@@ -1,0 +1,3598 @@
+author=nervous_system
+id=tag:search.twitter.com,2005:84842133076455424
+published=2011-06-26 04:35:15 
+source=twitter
+title=RT @nervous_jessica: rendered some hyphae lamp related sketches last month to include in our @eyeofestival talk - http://t.co/04238yO
+url=http://twitter.com/nervous_system/statuses/84842133076455424
+
+
+-
+author=golan
+id=tag:search.twitter.com,2005:84957971632750592
+published=2011-06-26 12:15:33 
+source=twitter
+title=En route to see all my peeps at @eyeofestival!
+url=http://twitter.com/golan/statuses/84957971632750592
+
+
+-
+author=databloom
+id=tag:search.twitter.com,2005:85002584468881408
+published=2011-06-26 15:12:50 
+source=twitter
+title=everyone from Bloom will be at #Eyeo Festival this week. Robert speaks on Tuesday evening, can't wait!
+url=http://twitter.com/databloom/statuses/85002584468881408
+
+
+-
+author=rachelbinx
+id=tag:search.twitter.com,2005:85026122475126784
+published=2011-06-26 16:46:21 
+source=twitter
+title=@jonathanstray oh, that is sad. We could have a mini pride party at eyeo?
+url=http://twitter.com/rachelbinx/statuses/85026122475126784
+
+
+-
+author=robotfilmfest
+id=tag:search.twitter.com,2005:85032463352606722
+published=2011-06-26 17:11:33 
+source=twitter
+title=Excited for @eyeofestival! #eyeo
+url=http://twitter.com/robotfilmfest/statuses/85032463352606722
+
+
+-
+author=robotfilmfest
+id=tag:search.twitter.com,2005:85032463352606722
+published=2011-06-26 17:11:33 
+source=twitter
+title=Excited for @eyeofestival! #eyeo
+url=http://twitter.com/robotfilmfest/statuses/85032463352606722
+
+
+-
+author=sparkfun
+id=tag:search.twitter.com,2005:85033275701215232
+published=2011-06-26 17:14:47 
+source=twitter
+title=Waiting at the gate to head to @eyeofestival in Minneapolis!  http://t.co/3naRLnr
+url=http://twitter.com/sparkfun/statuses/85033275701215232
+
+
+-
+author=aaronkoblin
+id=tag:search.twitter.com,2005:85049387209850880
+published=2011-06-26 18:18:48 
+source=twitter
+title=RT @robotfilmfest: Excited for @eyeofestival! #eyeo
+url=http://twitter.com/aaronkoblin/statuses/85049387209850880
+
+
+-
+author=ourpunkkoala
+id=tag:search.twitter.com,2005:85066047891324929
+published=2011-06-26 19:25:00 
+source=twitter
+title=i don't know what #eyeo is about but if @golan @blprnt @REAS are there, i'm sure i wish i was
+url=http://twitter.com/ourpunkkoala/statuses/85066047891324929
+
+
+-
+author=heatherknight
+id=tag:search.twitter.com,2005:85066210349289472
+published=2011-06-26 19:25:39 
+source=twitter
+title=Just bought Robopocalypse for the plane, will report back. #eyeo
+url=http://twitter.com/heatherknight/statuses/85066210349289472
+
+
+-
+author=shawn_sims_
+id=tag:search.twitter.com,2005:85072556419321856
+published=2011-06-26 19:50:52 
+source=twitter
+title=So much #eyeo on my twitter stream. Glad in here and not experiencing #eyeofestival lust.
+url=http://twitter.com/shawn_sims_/statuses/85072556419321856
+
+
+-
+author=golan
+id=tag:search.twitter.com,2005:85076869866721280
+published=2011-06-26 20:08:01 
+source=twitter
+title=I'm collaborating with @kcimc on our #eyeo workshop, over skype and etherpad, while he is in-flight somewhere over Wisconsin
+url=http://twitter.com/golan/statuses/85076869866721280
+
+
+-
+author=kcimc
+id=tag:search.twitter.com,2005:85077301984903168
+published=2011-06-26 20:09:44 
+source=twitter
+title=RT @golan: I'm collaborating with @kcimc on our #eyeo workshop, over skype and etherpad, while he is in-flight somewhere over Wisconsin
+url=http://twitter.com/kcimc/statuses/85077301984903168
+
+
+-
+author=shiffman
+id=tag:search.twitter.com,2005:85082370906144768
+published=2011-06-26 20:29:52 
+source=twitter
+title=I think I have to shut off twitter, too sad to be missing #eyeo festival.  Enjoy all!
+url=http://twitter.com/shiffman/statuses/85082370906144768
+
+
+-
+author=creativeapps
+id=tag:search.twitter.com,2005:85085064744013824
+published=2011-06-26 20:40:34 
+source=twitter
+title=+1 “@shiffman: I think I have to shut off twitter, too sad to be missing #eyeo festival.  Enjoy all!”
+url=http://twitter.com/creativeapps/statuses/85085064744013824
+
+
+-
+author=wiederkehr
+id=tag:search.twitter.com,2005:85105236951318528
+published=2011-06-26 22:00:44 
+source=twitter
+title=@FILWD talking would be great! are you at #EyeoFestival by any chance?
+url=http://twitter.com/wiederkehr/statuses/85105236951318528
+
+
+-
+author=feltron
+id=tag:search.twitter.com,2005:85117322414669824
+published=2011-06-26 22:48:45 
+source=twitter
+title=Working on the "pro" version of my presentation for @eyeofestival
+url=http://twitter.com/feltron/statuses/85117322414669824
+
+
+-
+author=flight404
+id=tag:search.twitter.com,2005:85118927105044481
+published=2011-06-26 22:55:08 
+source=twitter
+title=@feltron @eyeofestival You really should be doing all of our slides. How about it?
+url=http://twitter.com/flight404/statuses/85118927105044481
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85126299819053056
+published=2011-06-26 23:24:26 
+source=twitter
+title=getting excited about #eyeo and exploring msp ~ off to forage with @shawn_sims_ if any #eyeo -ers want food/drinks downtown
+url=http://twitter.com/notcot/statuses/85126299819053056
+
+
+-
+author=boundary
+id=tag:search.twitter.com,2005:85168263121731584
+published=2011-06-27 02:11:10 
+source=twitter
+title=If you're heading to @eyeofestival, be sure to meet our dynamic duo @sboak and @d2fn. And give them your resume. We're hiring! #eyeofestival
+url=http://twitter.com/boundary/statuses/85168263121731584
+
+
+-
+author=mikecreighton
+id=tag:search.twitter.com,2005:85174301283713024
+published=2011-06-27 02:35:10 
+source=twitter
+title=Nerds: come to Kitty Cat Klub to join fellow Eyeo-ers.
+url=http://twitter.com/mikecreighton/statuses/85174301283713024
+
+
+-
+author=blprnt
+id=tag:search.twitter.com,2005:85193314525126657
+published=2011-06-27 03:50:43 
+source=twitter
+title=At Kitty Cat Klub for a drink with @flight404 and a bunch of other awesome #eyeo folks
+url=http://twitter.com/blprnt/statuses/85193314525126657
+
+
+-
+author=akaiving
+id=tag:search.twitter.com,2005:85205357445644289
+published=2011-06-27 04:38:34 
+source=twitter
+title=앞서소개 http://goo.gl/fKaNG 한 Eyeo Festival 프로그램 http://goo.gl/al4MF 을보다가흥미로운패널토의발견. 주제가 '데이터시각화와사회정의'. 이사람들, 정말앞서가긴앞서가는구나.
+url=http://twitter.com/akaiving/statuses/85205357445644289
+
+
+-
+author=juerglehni
+id=tag:search.twitter.com,2005:85322751136628736
+published=2011-06-27 12:25:03 
+source=twitter
+title=Wrapping up the last changes for the launch of @PaperJS today, just in time for @eyeofestival where @REAS & @ben_fry will be mentioning it.
+url=http://twitter.com/juerglehni/statuses/85322751136628736
+
+
+-
+author=paperjs
+id=tag:search.twitter.com,2005:85322811677224962
+published=2011-06-27 12:25:18 
+source=twitter
+title=RT @juerglehni: Wrapping up the last changes for the launch of @PaperJS today, just in time for @eyeofestival where @REAS & @ben_fry will be mentioning it.
+url=http://twitter.com/paperjs/statuses/85322811677224962
+
+
+-
+author=woolypixel
+id=tag:search.twitter.com,2005:85335188246249474
+published=2011-06-27 13:14:28 
+source=twitter
+title=Headed to @eyeofestival today! #eyeo
+url=http://twitter.com/woolypixel/statuses/85335188246249474
+
+
+-
+author=feltedsignal
+id=tag:search.twitter.com,2005:85335251521515520
+published=2011-06-27 13:14:44 
+source=twitter
+title=Headed to @eyeofestival today! #eyeo
+url=http://twitter.com/feltedsignal/statuses/85335251521515520
+
+
+-
+author=localprojects
+id=tag:search.twitter.com,2005:85346688050536448
+published=2011-06-27 14:00:10 
+source=twitter
+title=Jake Barton is taking part in two speaking engagements at Eyeo on Tuesday, June 28th, 2011.  Eyeo is three days... http://fb.me/14gvycPpe
+url=http://twitter.com/localprojects/statuses/85346688050536448
+
+
+-
+author=jonathanstray
+id=tag:search.twitter.com,2005:85355692143288320
+published=2011-06-27 14:35:57 
+source=twitter
+title=RT @shashashasha: Fuckyeaharchitecture #eyeo  http://instagr.am/p/Gf3Q8/
+url=http://twitter.com/jonathanstray/statuses/85355692143288320
+
+
+-
+author=nicoles
+id=tag:search.twitter.com,2005:85358294373384192
+published=2011-06-27 14:46:17 
+source=twitter
+title=Seriously beautiful architecture here at #eyeofestival http://instagr.am/p/Gf4-E/
+url=http://twitter.com/nicoles/statuses/85358294373384192
+
+
+-
+author=shiffman
+id=tag:search.twitter.com,2005:85358837707702272
+published=2011-06-27 14:48:27 
+source=twitter
+title=Instead of shutting off twitter, I think I'll just torture myself by following #eyeo.  Good luck this morning to @REAS and @ben_fry
+url=http://twitter.com/shiffman/statuses/85358837707702272
+
+
+-
+author=blprnt
+id=tag:search.twitter.com,2005:85360259518042113
+published=2011-06-27 14:54:06 
+source=twitter
+title=I think we can all agree that @shiffman is here in spirit. Right, #eyeo?
+url=http://twitter.com/blprnt/statuses/85360259518042113
+
+
+-
+author=adcraftsmen
+id=tag:search.twitter.com,2005:85360923954511872
+published=2011-06-27 14:56:44 
+source=twitter
+title=We're here at #eyeo  http://t.co/wWF6N0F
+url=http://twitter.com/adcraftsmen/statuses/85360923954511872
+
+
+-
+author=rrmutt
+id=tag:search.twitter.com,2005:85361071283634177
+published=2011-06-27 14:57:19 
+source=twitter
+title=Keynote sitting with the badass Ardent crew @raindrift @nadya @jonathanstray @nicoles @rachelbinx #eyeo
+url=http://twitter.com/rrmutt/statuses/85361071283634177
+
+
+-
+author=bsoverload
+id=tag:search.twitter.com,2005:85362147726598144
+published=2011-06-27 15:01:36 
+source=twitter
+title=See @geull and @andrewcharon are here at #eyeo Any other local UX stars? -tz
+url=http://twitter.com/bsoverload/statuses/85362147726598144
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85362363041202176
+published=2011-06-27 15:02:27 
+source=twitter
+title=Virtually everyone of my generation that's significant in data visualization is in the room here at #eyeo. Amazing job by the organizers.
+url=http://twitter.com/agpublic/statuses/85362363041202176
+
+
+-
+author=eyeofestival
+id=tag:search.twitter.com,2005:85362704063270912
+published=2011-06-27 15:03:49 
+source=twitter
+title=LET'S DO IT!!!!!!!!!!!!!!!!
+url=http://twitter.com/eyeofestival/statuses/85362704063270912
+
+
+-
+author=mariuswatz
+id=tag:search.twitter.com,2005:85366209037615104
+published=2011-06-27 15:17:44 
+source=twitter
+title=.@benfry "Processing seeks to ruin careers of designers by tempting them away from their usual tools and ... into computation" #eyeo
+url=http://twitter.com/mariuswatz/statuses/85366209037615104
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85366378676240385
+published=2011-06-27 15:18:25 
+source=twitter
+title="Processing seeks to ruin the careers of talented dsgnrs by tempting them away fr thr usual tools & into the world of pgmg & cmptn"! #eyeo
+url=http://twitter.com/agpublic/statuses/85366378676240385
+
+
+-
+author=shawn_sims_
+id=tag:search.twitter.com,2005:85366618493947904
+published=2011-06-27 15:19:22 
+source=twitter
+title=RT @mariuswatz: .@benfry "Processing seeks to ruin careers of designers by tempting them away from their usual tools and ... into computation" #eyeo
+url=http://twitter.com/shawn_sims_/statuses/85366618493947904
+
+
+-
+author=igorclark
+id=tag:search.twitter.com,2005:85366772278108160
+published=2011-06-27 15:19:59 
+source=twitter
+title=Processing dudes Ben Fry & Casey Reas at #eyeo  @ McNamara Alumni Center http://instagr.am/p/Gf-_F/
+url=http://twitter.com/igorclark/statuses/85366772278108160
+
+
+-
+author=seb_ly
+id=tag:search.twitter.com,2005:85367296012451840
+published=2011-06-27 15:22:04 
+source=twitter
+title=Awesome #processing mission statement from @ben_fry and @REAS at #eyeo  http://t.co/2kRqD1M
+url=http://twitter.com/seb_ly/statuses/85367296012451840
+
+
+-
+author=bartekd
+id=tag:search.twitter.com,2005:85368108314935296
+published=2011-06-27 15:25:17 
+source=twitter
+title=Haha, it's so true :) RT @seb_ly: Awesome #processing mission statement from @ben_fry and @REAS at #eyeo  http://t.co/2kRqD1M
+url=http://twitter.com/bartekd/statuses/85368108314935296
+
+
+-
+author=jameburn
+id=tag:search.twitter.com,2005:85369660131913728
+published=2011-06-27 15:31:27 
+source=twitter
+title=Processing 2.0 publishes directly to JavaScript! #eyeo
+url=http://twitter.com/jameburn/statuses/85369660131913728
+
+
+-
+author=3232design
+id=tag:search.twitter.com,2005:85370126987309056
+published=2011-06-27 15:33:19 
+source=twitter
+title=#eyeo should have given out baseball hats instead of flash drives. Getting bright at McNamara.
+url=http://twitter.com/3232design/statuses/85370126987309056
+
+
+-
+author=spenczar
+id=tag:search.twitter.com,2005:85370638470094848
+published=2011-06-27 15:35:20 
+source=twitter
+title=@shiffman you just got a shout out by @ben_fry why aren't you here? #eyeo
+url=http://twitter.com/spenczar/statuses/85370638470094848
+
+
+-
+author=mariuswatz
+id=tag:search.twitter.com,2005:85370640365924352
+published=2011-06-27 15:35:21 
+source=twitter
+title=Processing 2.0 will have JS and Android modes, better Data APIs, seriously improved OpenGL performance (thanks to @codeanticode) #eyeo
+url=http://twitter.com/mariuswatz/statuses/85370640365924352
+
+
+-
+author=jonathanstray
+id=tag:search.twitter.com,2005:85371120760532992
+published=2011-06-27 15:37:15 
+source=twitter
+title=Visualization of millions of documents. WebGL. Map-reduce and NLP. And all for the public good. We are hiring. overview.ap.org #eyeo
+url=http://twitter.com/jonathanstray/statuses/85371120760532992
+
+
+-
+author=shiffman
+id=tag:search.twitter.com,2005:85371215409184768
+published=2011-06-27 15:37:38 
+source=twitter
+title=RT @mariuswatz Processing 2.0 will have JS & Android modes, Data APIs, seriously improved OpenGL performance (thanks @codeanticode) #eyeo
+url=http://twitter.com/shiffman/statuses/85371215409184768
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85372690533318656
+published=2011-06-27 15:43:30 
+source=twitter
+title="A computer is not an object, but a system to think within — a medium." Reas and Fry on Processing. #eyeo
+url=http://twitter.com/agpublic/statuses/85372690533318656
+
+
+-
+author=tezcatlipoca
+id=tag:search.twitter.com,2005:85372758686568448
+published=2011-06-27 15:43:46 
+source=twitter
+title=Casey nails it: lower the bar so we can talk about work not novelty. This idea (might) save art and tech from itself. #eyeo
+url=http://twitter.com/tezcatlipoca/statuses/85372758686568448
+
+
+-
+author=nicoles
+id=tag:search.twitter.com,2005:85372917696827392
+published=2011-06-27 15:44:24 
+source=twitter
+title=RT @jonathanstray: Visualization of millions of documents. WebGL. Map-reduce and NLP. And all for the public good. We are hiring. overview.ap.org #eyeo
+url=http://twitter.com/nicoles/statuses/85372917696827392
+
+
+-
+author=moritz_stefaner
+id=tag:search.twitter.com,2005:85373113675681793
+published=2011-06-27 15:45:11 
+source=twitter
+title=RT @agpublic: "Processing seeks to ruin the careers of talented dsgnrs by tempting them away fr thr usual tools & into the world of pgmg & cmptn"! #eyeo
+url=http://twitter.com/moritz_stefaner/statuses/85373113675681793
+
+
+-
+author=poptech
+id=tag:search.twitter.com,2005:85373965928898562
+published=2011-06-27 15:48:34 
+source=twitter
+title="A computer is not an object, but a system to think within — a medium." Processing's Casey  (@REAS) at the @eyeofestival.  #eyeo
+url=http://twitter.com/poptech/statuses/85373965928898562
+
+
+-
+author=poptech
+id=tag:search.twitter.com,2005:85373965928898562
+published=2011-06-27 15:48:34 
+source=twitter
+title="A computer is not an object, but a system to think within — a medium." Processing's Casey  (@REAS) at the @eyeofestival.  #eyeo
+url=http://twitter.com/poptech/statuses/85373965928898562
+
+
+-
+author=akaiving
+id=tag:search.twitter.com,2005:85375369825353730
+published=2011-06-27 15:54:09 
+source=twitter
+title=Eyeo Festival http://goo.gl/Vmkot 중계트윗이드디어하나둘씩올라오기시작. 해시태그는 #eyeo를사용. 관심있는분은이해시태그를따라가보세요.
+url=http://twitter.com/akaiving/statuses/85375369825353730
+
+
+-
+author=artimated
+id=tag:search.twitter.com,2005:85376835155795968
+published=2011-06-27 15:59:58 
+source=twitter
+title=Love being in a room full if geeks where the male/female ratio is even! Can I bring some if these #eyeo women back to Boston with me?
+url=http://twitter.com/artimated/statuses/85376835155795968
+
+
+-
+author=seb_ly
+id=tag:search.twitter.com,2005:85378872643817472
+published=2011-06-27 16:08:04 
+source=twitter
+title=RT @mariuswatz: Processing 2.0 will have JS and Android modes, better Data APIs, seriously improved OpenGL performance (thanks to @codeanticode) #eyeo
+url=http://twitter.com/seb_ly/statuses/85378872643817472
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85379268535791616
+published=2011-06-27 16:09:38 
+source=twitter
+title=Stefaner's FeelSpace, a "haptic compass": http://feelspace.cogsci.uni-osnabrueck.de/ #eyeo
+url=http://twitter.com/agpublic/statuses/85379268535791616
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85380449140080641
+published=2011-06-27 16:14:20 
+source=twitter
+title=(Notabilia also shines a harsh clear light on the sewer of pettiness and pissantry that Wikipedia internal culture has become.) #eyeo
+url=http://twitter.com/agpublic/statuses/85380449140080641
+
+
+-
+author=datavis
+id=tag:search.twitter.com,2005:85381975451516929
+published=2011-06-27 16:20:23 
+source=twitter
+title=First part of every project by @moritz_stefaner is exploring the data to get a feel for its' texture using tools like Excel & Tableau #eyeo
+url=http://twitter.com/datavis/statuses/85381975451516929
+
+
+-
+author=mariuswatz
+id=tag:search.twitter.com,2005:85382873531686912
+published=2011-06-27 16:23:58 
+source=twitter
+title=Paper.js, JavaScript vector engine by @juerg_lehni and @jonathan_puckey. JS looks ready to blow up! http://paperjs.org/ #eyeo
+url=http://twitter.com/mariuswatz/statuses/85382873531686912
+
+
+-
+author=seb_ly
+id=tag:search.twitter.com,2005:85384490486206465
+published=2011-06-27 16:30:23 
+source=twitter
+title=Revisit - the ultimate twitter wall from @moritz_stefaner at #eyeo http://t.co/GCmK7RW
+url=http://twitter.com/seb_ly/statuses/85384490486206465
+
+
+-
+author=visually
+id=tag:search.twitter.com,2005:85384663895523328
+published=2011-06-27 16:31:04 
+source=twitter
+title=Looking forward to meeting everyone at #eyeo, @eyeofestival
+url=http://twitter.com/visually/statuses/85384663895523328
+
+
+-
+author=wheniwas19
+id=tag:search.twitter.com,2005:85385040732749824
+published=2011-06-27 16:32:34 
+source=twitter
+title=@mikecreighton & i are going to DOMINATE the revisit screen @ #eyeo
+url=http://twitter.com/wheniwas19/statuses/85385040732749824
+
+
+-
+author=mariuswatz
+id=tag:search.twitter.com,2005:85385039185068033
+published=2011-06-27 16:32:34 
+source=twitter
+title=.@moritz_stefaner (aka Truth and Beauty operator): Revisit Twitter viz is sho nice http://ow.ly/5raFZ #eyeo
+url=http://twitter.com/mariuswatz/statuses/85385039185068033
+
+
+-
+author=mikecreighton
+id=tag:search.twitter.com,2005:85385309524725760
+published=2011-06-27 16:33:38 
+source=twitter
+title=RT @wheniwas19 @mikecreighton & i are going to DOMINATE the revisit screen @ #eyeo
+url=http://twitter.com/mikecreighton/statuses/85385309524725760
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85385853819555840
+published=2011-06-27 16:35:48 
+source=twitter
+title="I like organic datasets...made up of human events." - @moritz_stefaner #eyeo
+url=http://twitter.com/core77/statuses/85385853819555840
+
+
+-
+author=wheniwas19
+id=tag:search.twitter.com,2005:85386254853746688
+published=2011-06-27 16:37:24 
+source=twitter
+title=BOOYAH! RT @mikecreighton: RT @wheniwas19 @mikecreighton & i are going to DOMINATE the revisit screen @ #eyeo
+url=http://twitter.com/wheniwas19/statuses/85386254853746688
+
+
+-
+author=evhan55
+id=tag:search.twitter.com,2005:85387106557497344
+published=2011-06-27 16:40:47 
+source=twitter
+title=http://yfrog.com/kicc4bj being a student volunteer has me looking like a crazy person at home depot #eyeo
+url=http://twitter.com/evhan55/statuses/85387106557497344
+
+
+-
+author=datavis
+id=tag:search.twitter.com,2005:85388464782180352
+published=2011-06-27 16:46:11 
+source=twitter
+title=Here are the projects listed that @moritz_stefaner presents at #eyeo. Have a play! http://t.co/vrHydh8
+url=http://twitter.com/datavis/statuses/85388464782180352
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85388596378484738
+published=2011-06-27 16:46:42 
+source=twitter
+title=OECD Better Life Initiative proj-find the country where lifestyle matches your priorities: http://t.co/aCRXNzi by @moritz_stefaner #eyeo
+url=http://twitter.com/core77/statuses/85388596378484738
+
+
+-
+author=mikecreighton
+id=tag:search.twitter.com,2005:85388893360361473
+published=2011-06-27 16:47:53 
+source=twitter
+title=Yay! RT @wheniwas19 BOOYAH! RT @mikecreighton: RT @wheniwas19 @mikecreighton & i are going to DOMINATE the revisit screen @ #eyeo
+url=http://twitter.com/mikecreighton/statuses/85388893360361473
+
+
+-
+author=rizoldak
+id=tag:search.twitter.com,2005:85388905163137024
+published=2011-06-27 16:47:56 
+source=twitter
+title=Only the first half of day one, and my brain is in squee mode already. #eyeo #eyeofestival #visualizations
+url=http://twitter.com/rizoldak/statuses/85388905163137024
+
+
+-
+author=rizoldak
+id=tag:search.twitter.com,2005:85388905163137024
+published=2011-06-27 16:47:56 
+source=twitter
+title=Only the first half of day one, and my brain is in squee mode already. #eyeo #eyeofestival #visualizations
+url=http://twitter.com/rizoldak/statuses/85388905163137024
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85388957034102784
+published=2011-06-27 16:48:08 
+source=twitter
+title=Yes! "The Secret Life of Visualizations": What happens after they've launched? How do people use them? #eyeo
+url=http://twitter.com/agpublic/statuses/85388957034102784
+
+
+-
+author=jonathanstray
+id=tag:search.twitter.com,2005:85389307296235520
+published=2011-06-27 16:49:31 
+source=twitter
+title=RT @agpublic: Yes! "The Secret Life of Visualizations": What happens after they've launched? How do people use them? #eyeo
+url=http://twitter.com/jonathanstray/statuses/85389307296235520
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85389575794606080
+published=2011-06-27 16:50:35 
+source=twitter
+title="Data and visualization are remixable cultural items." @mortiz_stefaner #eyeo
+url=http://twitter.com/brainpicker/statuses/85389575794606080
+
+
+-
+author=datavis
+id=tag:search.twitter.com,2005:85389853025505280
+published=2011-06-27 16:51:42 
+source=twitter
+title="you can't come up with something visual before you have the data and you need to be open when you get started"  @moritz_stefaner at #eyeo
+url=http://twitter.com/datavis/statuses/85389853025505280
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85391156153819136
+published=2011-06-27 16:56:52 
+source=twitter
+title="Tell a thousand stories...but not all at once." Moritz Stefaner, #eyeo
+url=http://twitter.com/agpublic/statuses/85391156153819136
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85392169451528193
+published=2011-06-27 17:00:54 
+source=twitter
+title=Notes from Moritz Stefaner's #eyeo presentation: http://t.co/a7dfV53 #eyeofestival
+url=http://twitter.com/softwareandart/statuses/85392169451528193
+
+
+-
+author=takeo
+id=tag:search.twitter.com,2005:85392297763680256
+published=2011-06-27 17:01:24 
+source=twitter
+title=eyeo conference is playing much tristeza between talks, I approve
+url=http://twitter.com/takeo/statuses/85392297763680256
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85393690075480064
+published=2011-06-27 17:06:56 
+source=twitter
+title="Tell a thousand stories, but not all at once." Best data viz advice ever, courtesy of @moritz_stefaner #eyeo
+url=http://twitter.com/brainpicker/statuses/85393690075480064
+
+
+-
+author=pitchinteractiv
+id=tag:search.twitter.com,2005:85395200276561920
+published=2011-06-27 17:12:56 
+source=twitter
+title=Amanda Cox graphics editor at NYT #eyeo speaking now. Need I say more?
+url=http://twitter.com/pitchinteractiv/statuses/85395200276561920
+
+
+-
+author=datavis
+id=tag:search.twitter.com,2005:85398090437230593
+published=2011-06-27 17:24:26 
+source=twitter
+title=Amanda Cox mentions that people still work after the Jurassic Park principle: thinking about CAN we do it, instead of SHOULD we do it. #eyeo
+url=http://twitter.com/datavis/statuses/85398090437230593
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85403414850322432
+published=2011-06-27 17:45:35 
+source=twitter
+title=peek into the beautiful space + design of  #eyeofestival  ~ http://bit.ly/m0dJRp
+url=http://twitter.com/notcot/statuses/85403414850322432
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85403414850322432
+published=2011-06-27 17:45:35 
+source=twitter
+title=peek into the beautiful space + design of  #eyeofestival  ~ http://bit.ly/m0dJRp
+url=http://twitter.com/notcot/statuses/85403414850322432
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85404396904652800
+published=2011-06-27 17:49:29 
+source=twitter
+title=Rise & Fall-simplified interaction to flipping mag up or down & focused on creating a world of dichotomies that rewards behavior #eyeo
+url=http://twitter.com/core77/statuses/85404396904652800
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85410003867013120
+published=2011-06-27 18:11:46 
+source=twitter
+title=Excited to see @nervous_system 's talk next #eyeo http://post.ly/2I7Lb
+url=http://twitter.com/notcot/statuses/85410003867013120
+
+
+-
+author=urbanfolkart
+id=tag:search.twitter.com,2005:85411576542281728
+published=2011-06-27 18:18:01 
+source=twitter
+title=Wow this building is gorgeous! RT @NOTCOT peek into the beautiful space + design of #eyeofestival ~ http://t.co/GkyWZho
+url=http://twitter.com/urbanfolkart/statuses/85411576542281728
+
+
+-
+author=urbanfolkart
+id=tag:search.twitter.com,2005:85411576542281728
+published=2011-06-27 18:18:01 
+source=twitter
+title=Wow this building is gorgeous! RT @NOTCOT peek into the beautiful space + design of #eyeofestival ~ http://t.co/GkyWZho
+url=http://twitter.com/urbanfolkart/statuses/85411576542281728
+
+
+-
+author=datavis
+id=tag:search.twitter.com,2005:85412070731956224
+published=2011-06-27 18:19:59 
+source=twitter
+title=The next panel at #eyeo sounds sooo promising: "Why the hell do we do, what we do?" by @databloom, @talikrakowsky, @zachlieberman & @golan
+url=http://twitter.com/datavis/statuses/85412070731956224
+
+
+-
+author=serial_consign
+id=tag:search.twitter.com,2005:85412097055391745
+published=2011-06-27 18:20:05 
+source=twitter
+title=.@blprnt @feltron and Janet A. provided nuanced insight on data and biography in our session. Thanks for the stimulating conversation! #eyeo
+url=http://twitter.com/serial_consign/statuses/85412097055391745
+
+
+-
+author=blprnt
+id=tag:search.twitter.com,2005:85414323652001792
+published=2011-06-27 18:28:56 
+source=twitter
+title=In biology nerd heaven in @nervous_jesse and @nervous_jessica 's #eyeo session.
+url=http://twitter.com/blprnt/statuses/85414323652001792
+
+
+-
+author=moritz_stefaner
+id=tag:search.twitter.com,2005:85415070259093504
+published=2011-06-27 18:31:54 
+source=twitter
+title=Impressively detailed minutes from selected eyeo talks: http://t.co/co0e1PX
+url=http://twitter.com/moritz_stefaner/statuses/85415070259093504
+
+
+-
+author=mariuswatz
+id=tag:search.twitter.com,2005:85415401462300673
+published=2011-06-27 18:33:13 
+source=twitter
+title=.@nervous_system on organic pattern formation systems - example: Dendritic Solidification http://ow.ly/5riUA #eyeo
+url=http://twitter.com/mariuswatz/statuses/85415401462300673
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85415628286070784
+published=2011-06-27 18:34:07 
+source=twitter
+title=So you know, how supercooling works – freeze water instantly, on command http://youtu.be/cgAlxBEPEf4 #eyeo
+url=http://twitter.com/brainpicker/statuses/85415628286070784
+
+
+-
+author=datavis
+id=tag:search.twitter.com,2005:85416736001765376
+published=2011-06-27 18:38:31 
+source=twitter
+title=OH by @golan: "A lot of it is visual masturbation - as that's okay as this is a legitimate human activity" #eyeo
+url=http://twitter.com/datavis/statuses/85416736001765376
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85417624917381120
+published=2011-06-27 18:42:03 
+source=twitter
+title=Adventures with @kcimc + kinect + @makerbot ... #eyeo http://post.ly/2I7na
+url=http://twitter.com/notcot/statuses/85417624917381120
+
+
+-
+author=mariuswatz
+id=tag:search.twitter.com,2005:85417790206525440
+published=2011-06-27 18:42:42 
+source=twitter
+title=Tech: CGAL Geom Library (in case you're ambitious enough to try meshing as complex as @nervous_system's) http://ow.ly/5rjxt #eyeo
+url=http://twitter.com/mariuswatz/statuses/85417790206525440
+
+
+-
+author=igorclark
+id=tag:search.twitter.com,2005:85419028830629888
+published=2011-06-27 18:47:38 
+source=twitter
+title=Wes Grubb (@pitchinteractiv) compares incidences of violent words in the Bible & Qu'ran at #eyeo http://instagr.am/p/GgjJH/
+url=http://twitter.com/igorclark/statuses/85419028830629888
+
+
+-
+author=flight404
+id=tag:search.twitter.com,2005:85422083076653056
+published=2011-06-27 18:59:46 
+source=twitter
+title=Love love @nervous_system talk at @eyeofestival
+url=http://twitter.com/flight404/statuses/85422083076653056
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85422216392622080
+published=2011-06-27 19:00:18 
+source=twitter
+title="things should be designed to make you wonder things" - @nervous_system #eyeo
+url=http://twitter.com/core77/statuses/85422216392622080
+
+
+-
+author=alpaykasal
+id=tag:search.twitter.com,2005:85424127208464384
+published=2011-06-27 19:07:53 
+source=twitter
+title=answering a question about visual masturbation : b/c we're drowning in data right now - Ben Cerveny @eyeofestival
+url=http://twitter.com/alpaykasal/statuses/85424127208464384
+
+
+-
+author=igaln
+id=tag:search.twitter.com,2005:85426157247410178
+published=2011-06-27 19:15:57 
+source=twitter
+title=RT @mariuswatz: Tech: CGAL Geom Library (in case you're ambitious enough to try meshing as complex as @nervous_system's) http://ow.ly/5rjxt #eyeo
+url=http://twitter.com/igaln/statuses/85426157247410178
+
+
+-
+author=jamesalliban
+id=tag:search.twitter.com,2005:85430715767996416
+published=2011-06-27 19:34:04 
+source=twitter
+title=So true -> RT @seb_ly: Awesome #processing mission statement from @ben_fry and @REAS at #eyeo  http://yfrog.com/kkgdokpj
+url=http://twitter.com/jamesalliban/statuses/85430715767996416
+
+
+-
+author=robertcarlsen
+id=tag:search.twitter.com,2005:85436559607861248
+published=2011-06-27 19:57:17 
+source=twitter
+title=Just met @flight404 having lunch...giggled like a schoolgirl; made an ass of myself. Huzzah! @eyeofestival
+url=http://twitter.com/robertcarlsen/statuses/85436559607861248
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85443588284100608
+published=2011-06-27 20:25:13 
+source=twitter
+title=Nice! @blprnt is showing his brilliant Kepler expolanets visualization at #eyeo http://j.mp/eMRcc3
+url=http://twitter.com/brainpicker/statuses/85443588284100608
+
+
+-
+author=jasonbrush
+id=tag:search.twitter.com,2005:85444299688390656
+published=2011-06-27 20:28:03 
+source=twitter
+title=@_akeegan I know in your heart of hearts you wish you were with all of us in Burbank instead of at #eyeo
+url=http://twitter.com/jasonbrush/statuses/85444299688390656
+
+
+-
+author=noahi
+id=tag:search.twitter.com,2005:85444397113671681
+published=2011-06-27 20:28:26 
+source=twitter
+title=RT @datavis: OH by @golan: "A lot of it is visual masturbation - as that's okay as this is a legitimate human activity" #eyeo
+url=http://twitter.com/noahi/statuses/85444397113671681
+
+
+-
+author=wheniwas19
+id=tag:search.twitter.com,2005:85447293632909312
+published=2011-06-27 20:39:57 
+source=twitter
+title=yup! RT @mikecreighton: Yay! RT @wheniwas19 BOOYAH! RT @mikecreighton: RT @wheniwas19 @mikecreighton & i DOMINATE the revisit screen @ #eyeo
+url=http://twitter.com/wheniwas19/statuses/85447293632909312
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85448835991740416
+published=2011-06-27 20:46:04 
+source=twitter
+title=I was just reminded of how much I love Jonathan Harris's We Feel Fine project + book http://j.mp/9qF6Fd #eyeo
+url=http://twitter.com/brainpicker/statuses/85448835991740416
+
+
+-
+author=shawn_sims_
+id=tag:search.twitter.com,2005:85451541745643522
+published=2011-06-27 20:56:49 
+source=twitter
+title=@golan and his processing army #eyeo #eyeofestival  http://t.co/4KLTDaN
+url=http://twitter.com/shawn_sims_/statuses/85451541745643522
+
+
+-
+author=shawn_sims_
+id=tag:search.twitter.com,2005:85451541745643522
+published=2011-06-27 20:56:49 
+source=twitter
+title=@golan and his processing army #eyeo #eyeofestival  http://t.co/4KLTDaN
+url=http://twitter.com/shawn_sims_/statuses/85451541745643522
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85451856452665344
+published=2011-06-27 20:58:04 
+source=twitter
+title=RT @shawn_sims_: @golan and his processing army #eyeo #eyeofestival  http://t.co/4KLTDaN
+url=http://twitter.com/notcot/statuses/85451856452665344
+
+
+-
+author=wasabipear
+id=tag:search.twitter.com,2005:85455067158806528
+published=2011-06-27 21:10:50 
+source=twitter
+title=@olisnoddy @flashmejayson For next year > http://bit.ly/fcj6gP #eyeo
+url=http://twitter.com/wasabipear/statuses/85455067158806528
+
+
+-
+author=th0ma5
+id=tag:search.twitter.com,2005:85455157562851328
+published=2011-06-27 21:11:11 
+source=twitter
+title=i'm a good engineer becoming an awful artist in a sea of amazing designers becoming horrible coders #eyeo :P
+url=http://twitter.com/th0ma5/statuses/85455157562851328
+
+
+-
+author=wheniwas19
+id=tag:search.twitter.com,2005:85455390594174976
+published=2011-06-27 21:12:07 
+source=twitter
+title=i need someone to teach me oF like @blprnt is teaching processing #eyeo any takers?
+url=http://twitter.com/wheniwas19/statuses/85455390594174976
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85462789539368960
+published=2011-06-27 21:41:31 
+source=twitter
+title=#eyeo LISA notes from Amanda Cox presentation @eyeofestival http://t.co/YjURN1D
+url=http://twitter.com/softwareandart/statuses/85462789539368960
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85462789539368960
+published=2011-06-27 21:41:31 
+source=twitter
+title=#eyeo LISA notes from Amanda Cox presentation @eyeofestival http://t.co/YjURN1D
+url=http://twitter.com/softwareandart/statuses/85462789539368960
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85473892449255425
+published=2011-06-27 22:25:38 
+source=twitter
+title=To learn to code, @blprnt recommends Learning Processing, calls it "best programming book, period" http://j.mp/mwj3hN #eyeo
+url=http://twitter.com/brainpicker/statuses/85473892449255425
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85476394720690176
+published=2011-06-27 22:35:35 
+source=twitter
+title=#eyeo LISA notes from Data Viz 101 by @blprnt @pitchinteractiv @eyeofestival http://t.co/SWwRdJq
+url=http://twitter.com/softwareandart/statuses/85476394720690176
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85476394720690176
+published=2011-06-27 22:35:35 
+source=twitter
+title=#eyeo LISA notes from Data Viz 101 by @blprnt @pitchinteractiv @eyeofestival http://t.co/SWwRdJq
+url=http://twitter.com/softwareandart/statuses/85476394720690176
+
+
+-
+author=blprnt
+id=tag:search.twitter.com,2005:85482829315719168
+published=2011-06-27 23:01:09 
+source=twitter
+title=Dinner at Acadia! Burgers! Beer! #eyeo
+url=http://twitter.com/blprnt/statuses/85482829315719168
+
+
+-
+author=heatherknight
+id=tag:search.twitter.com,2005:85490405583486976
+published=2011-06-27 23:31:15 
+source=twitter
+title=This is amazing - projection on ir-tracked dancers, intertwined: http://t.co/qxgNUbJ via @golan #eyeo
+url=http://twitter.com/heatherknight/statuses/85490405583486976
+
+
+-
+author=adcraftsmen
+id=tag:search.twitter.com,2005:85512652499062784
+published=2011-06-28 00:59:39 
+source=twitter
+title=Evening #eyeo sessions at @thecedar  http://t.co/z85E96O
+url=http://twitter.com/adcraftsmen/statuses/85512652499062784
+
+
+-
+author=davidmccrindle
+id=tag:search.twitter.com,2005:85513073384886272
+published=2011-06-28 01:01:20 
+source=twitter
+title=Are there drink tickets? I didn't get one "@adcraftsmen: Evening #eyeo sessions at @thecedar  http://t.co/TyUCmKP”
+url=http://twitter.com/davidmccrindle/statuses/85513073384886272
+
+
+-
+author=chrisspurgeon
+id=tag:search.twitter.com,2005:85513204255567872
+published=2011-06-28 01:01:51 
+source=twitter
+title=Annoying tweet in a desperate attempt to appear on screen. #eyeofestival
+url=http://twitter.com/chrisspurgeon/statuses/85513204255567872
+
+
+-
+author=cjanuska
+id=tag:search.twitter.com,2005:85514443634655232
+published=2011-06-28 01:06:46 
+source=twitter
+title=RT @chrisspurgeon: Annoying tweet in a desperate attempt to appear on screen. #eyeofestival
+url=http://twitter.com/cjanuska/statuses/85514443634655232
+
+
+-
+author=nervous_system
+id=tag:search.twitter.com,2005:85514476706742272
+published=2011-06-28 01:06:54 
+source=twitter
+title=RT @core77 "things should be designed to make you wonder" - @nervous_system #eyeo
+url=http://twitter.com/nervous_system/statuses/85514476706742272
+
+
+-
+author=flight404
+id=tag:search.twitter.com,2005:85515620048834560
+published=2011-06-28 01:11:27 
+source=twitter
+title=Retweet this for Moritz. #eyeo
+url=http://twitter.com/flight404/statuses/85515620048834560
+
+
+-
+author=hapticdata
+id=tag:search.twitter.com,2005:85515872168443904
+published=2011-06-28 01:12:27 
+source=twitter
+title=This twitter visualization by @moritz_stefaner is wonderful. Clearly he considered the idle mode.  http://t.co/YsXZFcK #eyeo
+url=http://twitter.com/hapticdata/statuses/85515872168443904
+
+
+-
+author=chrisspurgeon
+id=tag:search.twitter.com,2005:85516949706113024
+published=2011-06-28 01:16:44 
+source=twitter
+title=RT @cjanuska RT @chrisspurgeon: Annoying tweet in a desperate attempt to appear on screen. #eyeofestival
+url=http://twitter.com/chrisspurgeon/statuses/85516949706113024
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85527882629263360
+published=2011-06-28 02:00:10 
+source=twitter
+title=FORM+CODE – eye and brain candy the data viz and generative art connoisseur http://j.mp/ejhjVt #eyeo
+url=http://twitter.com/brainpicker/statuses/85527882629263360
+
+
+-
+author=cjanuska
+id=tag:search.twitter.com,2005:85537484586496000
+published=2011-06-28 02:38:20 
+source=twitter
+title=#eyeo
+url=http://twitter.com/cjanuska/statuses/85537484586496000
+
+
+-
+author=igorclark
+id=tag:search.twitter.com,2005:85542334913187840
+published=2011-06-28 02:57:36 
+source=twitter
+title=old @golan and new, performing at #eyeo http://instagr.am/p/Gh8hL/
+url=http://twitter.com/igorclark/statuses/85542334913187840
+
+
+-
+author=chickfoxgrover
+id=tag:search.twitter.com,2005:85542482825314304
+published=2011-06-28 02:58:11 
+source=twitter
+title=I don't just think the absurd is important, I think it's crucially important. - Golan Levin #eyeo
+url=http://twitter.com/chickfoxgrover/statuses/85542482825314304
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85542592892239872
+published=2011-06-28 02:58:38 
+source=twitter
+title="I dont just think the absurd is important, I think its crucially important." - @golan #eyeo
+url=http://twitter.com/core77/statuses/85542592892239872
+
+
+-
+author=cykod
+id=tag:search.twitter.com,2005:85542736521986048
+published=2011-06-28 02:59:12 
+source=twitter
+title="I don't just think the absurd is important, I think it's crucially important" says @golan #eyeo
+url=http://twitter.com/cykod/statuses/85542736521986048
+
+
+-
+author=chickfoxgrover
+id=tag:search.twitter.com,2005:85542978340392960
+published=2011-06-28 03:00:10 
+source=twitter
+title=RT @igorclark: old @golan and new, performing at #eyeo http://instagr.am/p/Gh8hL/
+url=http://twitter.com/chickfoxgrover/statuses/85542978340392960
+
+
+-
+author=geull
+id=tag:search.twitter.com,2005:85546722666872833
+published=2011-06-28 03:15:02 
+source=twitter
+title=@golan Thank you so much for sharing today. #eyeo simply excellent. Thanks for the intro to Processing class as well. #feedback rules!
+url=http://twitter.com/geull/statuses/85546722666872833
+
+
+-
+author=mariuswatz
+id=tag:search.twitter.com,2005:85548562578026496
+published=2011-06-28 03:22:21 
+source=twitter
+title=. @golan: The obvious followup is to have a robot draw GML tags on the Moon, and it just might happen #eyeo
+url=http://twitter.com/mariuswatz/statuses/85548562578026496
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85550057075642368
+published=2011-06-28 03:28:17 
+source=twitter
+title=#eyeo check out the LISA notes from Natalie Jeremijenko @eyeofestival http://t.co/a6F2ZfW
+url=http://twitter.com/softwareandart/statuses/85550057075642368
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85550057075642368
+published=2011-06-28 03:28:17 
+source=twitter
+title=#eyeo check out the LISA notes from Natalie Jeremijenko @eyeofestival http://t.co/a6F2ZfW
+url=http://twitter.com/softwareandart/statuses/85550057075642368
+
+
+-
+author=stevenkeating
+id=tag:search.twitter.com,2005:85554682805755904
+published=2011-06-28 03:46:40 
+source=twitter
+title=RT @core77: "I dont just think the absurd is important, I think its crucially important." - @golan #eyeo
+url=http://twitter.com/stevenkeating/statuses/85554682805755904
+
+
+-
+author=futurescreen
+id=tag:search.twitter.com,2005:85575682582773760
+published=2011-06-28 05:10:07 
+source=twitter
+title=Day one of #eyeo winding down. Hearing the genesis of the presenters' ideas is so inspiring.
+url=http://twitter.com/futurescreen/statuses/85575682582773760
+
+
+-
+author=10ch
+id=tag:search.twitter.com,2005:85577671962144768
+published=2011-06-28 05:18:01 
+source=twitter
+title=It's like the #eyeo folks looked at other conferences and in every way said, "How can we do this better?"
+url=http://twitter.com/10ch/statuses/85577671962144768
+
+
+-
+author=mileskemp
+id=tag:search.twitter.com,2005:85617950790393856
+published=2011-06-28 07:58:04 
+source=twitter
+title=RT @edsonpavoni: awesome rt @shiffman Processing 2.0 will have JS & Android modes, Data APIs, seriously improved OpenGL performance tks @codeanticode #eyeo
+url=http://twitter.com/mileskemp/statuses/85617950790393856
+
+
+-
+author=peter_nitsch
+id=tag:search.twitter.com,2005:85700009630236672
+published=2011-06-28 13:24:09 
+source=twitter
+title=What I'm learning at #eyeo: http://bit.ly/g0NsSS Ya, it's shaping up to be a valuable festival.
+url=http://twitter.com/peter_nitsch/statuses/85700009630236672
+
+
+-
+author=ghostpressbed
+id=tag:search.twitter.com,2005:85703950053019648
+published=2011-06-28 13:39:48 
+source=twitter
+title=“@peter_nitsch: What I'm learning at #eyeo: http://t.co/g4QhZuY Ya, it's shaping up to be a valuable festival.” Nice!
+url=http://twitter.com/ghostpressbed/statuses/85703950053019648
+
+
+-
+author=shiffman
+id=tag:search.twitter.com,2005:85705202946154496
+published=2011-06-28 13:44:47 
+source=twitter
+title=In honor of #eyeo, working on new Javascript mode and OPENGL tutorials for #Processing web site today.
+url=http://twitter.com/shiffman/statuses/85705202946154496
+
+
+-
+author=blprnt
+id=tag:search.twitter.com,2005:85706584231129089
+published=2011-06-28 13:50:16 
+source=twitter
+title=RT @shiffman: In honor of #eyeo, working on new Javascript mode and OPENGL tutorials for #Processing web site today.
+url=http://twitter.com/blprnt/statuses/85706584231129089
+
+
+-
+author=th0ma5
+id=tag:search.twitter.com,2005:85709885412610049
+published=2011-06-28 14:03:23 
+source=twitter
+title=Day two eh? #eyeo
+url=http://twitter.com/th0ma5/statuses/85709885412610049
+
+
+-
+author=shannonethomas
+id=tag:search.twitter.com,2005:85718377020141568
+published=2011-06-28 14:37:08 
+source=twitter
+title=a few sketch notes from day one of #eyeo  http://t.co/wEofUo4
+url=http://twitter.com/shannonethomas/statuses/85718377020141568
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85722819501101056
+published=2011-06-28 14:54:47 
+source=twitter
+title=Beautiful note taking inspiration! RT @shannonethomas: a few sketch notes from day one of #eyeo  http://yfrog.com/h0miiqfj
+url=http://twitter.com/notcot/statuses/85722819501101056
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85724492797706241
+published=2011-06-28 15:01:26 
+source=twitter
+title=Jake Barton's up this morning at #eyeo, but I probably won't be livetweeting that much (tweeting hands are tired).
+url=http://twitter.com/agpublic/statuses/85724492797706241
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85727331183898626
+published=2011-06-28 15:12:43 
+source=twitter
+title=StoryCorps: "A conspiracy to make America cry." #eyeo
+url=http://twitter.com/agpublic/statuses/85727331183898626
+
+
+-
+author=robertcarlsen
+id=tag:search.twitter.com,2005:85727711670173696
+published=2011-06-28 15:14:13 
+source=twitter
+title="StoryCorps is a mission to make America cry (every Friday on NPR)" -Jake Barton @eyeofestival #eyeo
+url=http://twitter.com/robertcarlsen/statuses/85727711670173696
+
+
+-
+author=robertcarlsen
+id=tag:search.twitter.com,2005:85727711670173696
+published=2011-06-28 15:14:13 
+source=twitter
+title="StoryCorps is a mission to make America cry (every Friday on NPR)" -Jake Barton @eyeofestival #eyeo
+url=http://twitter.com/robertcarlsen/statuses/85727711670173696
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85728290538663936
+published=2011-06-28 15:16:31 
+source=twitter
+title=StoryCorps booths taught Jake that user cues, and even instructions, needed to be embedded in physical space. #eyeo
+url=http://twitter.com/agpublic/statuses/85728290538663936
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85728895915134977
+published=2011-06-28 15:18:56 
+source=twitter
+title=Jake Barton: "We've learned to not shy away from debate and rancor." Yes. #eyeo
+url=http://twitter.com/agpublic/statuses/85728895915134977
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85729193807187968
+published=2011-06-28 15:20:07 
+source=twitter
+title=Change by Us – fantastic project by @Jake_Barton's @LocalProjects reinventing public participation http://j.mp/ilFZjN #eyeo
+url=http://twitter.com/brainpicker/statuses/85729193807187968
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85729774433079296
+published=2011-06-28 15:22:25 
+source=twitter
+title=Change By Us became giveaminute.info #eyeo
+url=http://twitter.com/agpublic/statuses/85729774433079296
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85731640185327616
+published=2011-06-28 15:29:50 
+source=twitter
+title=Change By Us-takes your idea abt how to improve your city & shows u orgs that can help u do it! launches July in nyc by @localprojects #eyeo
+url=http://twitter.com/core77/statuses/85731640185327616
+
+
+-
+author=chickfoxgrover
+id=tag:search.twitter.com,2005:85732949294718977
+published=2011-06-28 15:35:02 
+source=twitter
+title=RT @agpublic: On "the most revolutionary act" of StoryCorps: "Listening is an act of love." #eyeo
+url=http://twitter.com/chickfoxgrover/statuses/85732949294718977
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85734186719264768
+published=2011-06-28 15:39:57 
+source=twitter
+title=Stunning real-time visualization of tweets at #eyeo by @moritz_stefaner http://j.mp/kqL3FA
+url=http://twitter.com/brainpicker/statuses/85734186719264768
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85734330663567360
+published=2011-06-28 15:40:31 
+source=twitter
+title="The job of mobile devices is to situate experiences in specific places." - @localprojects #eyeo
+url=http://twitter.com/core77/statuses/85734330663567360
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85734613208678401
+published=2011-06-28 15:41:39 
+source=twitter
+title=Jake Barton: "We don't even try to interpret ideas anymore, we just make prototypes." #eyeo
+url=http://twitter.com/agpublic/statuses/85734613208678401
+
+
+-
+author=zachgemignani
+id=tag:search.twitter.com,2005:85735007041241088
+published=2011-06-28 15:43:13 
+source=twitter
+title="Prototyping is the key to moving a conservative organization forward." - Jake Barton #eyeo
+url=http://twitter.com/zachgemignani/statuses/85735007041241088
+
+
+-
+author=gagan_s
+id=tag:search.twitter.com,2005:85736436749443072
+published=2011-06-28 15:48:54 
+source=twitter
+title=Stunning real-time visualization of tweets at #eyeo by @moritz_stefaner http://j.mp/kqL3FA @brainpicker << Good way to spend some free time
+url=http://twitter.com/gagan_s/statuses/85736436749443072
+
+
+-
+author=billder
+id=tag:search.twitter.com,2005:85737437225164800
+published=2011-06-28 15:52:52 
+source=twitter
+title=Gotta hand it to amazing @eyeofestival. Segueing smoothly from preso on StoryCorps and 9/11 Memorial creation to 3D DIY printing. Quality.
+url=http://twitter.com/billder/statuses/85737437225164800
+
+
+-
+author=juliaxgulia
+id=tag:search.twitter.com,2005:85740905948131329
+published=2011-06-28 16:06:39 
+source=twitter
+title=Reading the tweets from #eyeo conference -- sounds like some inspiring & insightful talks taking place. Wish I could be there!
+url=http://twitter.com/juliaxgulia/statuses/85740905948131329
+
+
+-
+author=ericsoco
+id=tag:search.twitter.com,2005:85742573888610304
+published=2011-06-28 16:13:17 
+source=twitter
+title=@zachlieberman -- an open mouth is a pathway to somebody's heart. #eyeo
+url=http://twitter.com/ericsoco/statuses/85742573888610304
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85742707271671810
+published=2011-06-28 16:13:49 
+source=twitter
+title=.@zachlieberman wrks in space btwn performance(take ppl on a journey) vs installation (invite ppl to participate & is more democratic) #eyeo
+url=http://twitter.com/core77/statuses/85742707271671810
+
+
+-
+author=pitchinteractiv
+id=tag:search.twitter.com,2005:85743770829729792
+published=2011-06-28 16:18:02 
+source=twitter
+title=#eyeo day two. Zach Lieberman talking now.
+url=http://twitter.com/pitchinteractiv/statuses/85743770829729792
+
+
+-
+author=heatherknight
+id=tag:search.twitter.com,2005:85744093191344128
+published=2011-06-28 16:19:19 
+source=twitter
+title=RT @ericsoco: @zachlieberman -- an open mouth is a pathway to somebody's heart. #eyeo
+url=http://twitter.com/heatherknight/statuses/85744093191344128
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85746073167073280
+published=2011-06-28 16:27:11 
+source=twitter
+title=re: Magic "i like magicians because i think they're constantly hacking the world" - @zachlieberman #eyeo
+url=http://twitter.com/core77/statuses/85746073167073280
+
+
+-
+author=voxels
+id=tag:search.twitter.com,2005:85748845832704001
+published=2011-06-28 16:38:12 
+source=twitter
+title=Big Screams makes it into the @zachlieberman's talk at #eyeo.  /cc @prisonerjohn
+url=http://twitter.com/voxels/statuses/85748845832704001
+
+
+-
+author=billder
+id=tag:search.twitter.com,2005:85749540698857473
+published=2011-06-28 16:40:58 
+source=twitter
+title="Artists are the R&D department for humanity's future." - Zach Lieberman at #eyeo
+url=http://twitter.com/billder/statuses/85749540698857473
+
+
+-
+author=prisonerjohn
+id=tag:search.twitter.com,2005:85750041888825344
+published=2011-06-28 16:42:57 
+source=twitter
+title=@voxels Also, I'm super jealous reading all these #eyeo tweets...
+url=http://twitter.com/prisonerjohn/statuses/85750041888825344
+
+
+-
+author=rejaneborges
+id=tag:search.twitter.com,2005:85751258341851137
+published=2011-06-28 16:47:47 
+source=twitter
+title=Stunning real-time visualization of tweets at #eyeo by @moritz_stefaner http://t.co/UUdNYrJ via @brainpicker
+url=http://twitter.com/rejaneborges/statuses/85751258341851137
+
+
+-
+author=feltron
+id=tag:search.twitter.com,2005:85752212185300992
+published=2011-06-28 16:51:35 
+source=twitter
+title=beautiful face projection footage from @zachlieberman's video collaboration with @bellinspace at #eyeo   http://t.co/MwibfJs
+url=http://twitter.com/feltron/statuses/85752212185300992
+
+
+-
+author=golan
+id=tag:search.twitter.com,2005:85753187088347136
+published=2011-06-28 16:55:27 
+source=twitter
+title=Ripping presentation by @zachlieberman at #eyeo!
+url=http://twitter.com/golan/statuses/85753187088347136
+
+
+-
+author=laurazabel
+id=tag:search.twitter.com,2005:85753430798376960
+published=2011-06-28 16:56:25 
+source=twitter
+title=RT @billder: "Artists are the R&D department for humanity's future." - Zach Lieberman at #eyeo
+url=http://twitter.com/laurazabel/statuses/85753430798376960
+
+
+-
+author=albrib
+id=tag:search.twitter.com,2005:85753943157784578
+published=2011-06-28 16:58:27 
+source=twitter
+title=@eyeofestival Tweetghetto poster for #eyeoPrint it, share it, or made your own customised version!http://t.co/12V73PlPlease RT
+url=http://twitter.com/albrib/statuses/85753943157784578
+
+
+-
+author=albrib
+id=tag:search.twitter.com,2005:85753943157784578
+published=2011-06-28 16:58:27 
+source=twitter
+title=@eyeofestival Tweetghetto poster for #eyeoPrint it, share it, or made your own customised version!http://t.co/12V73PlPlease RT
+url=http://twitter.com/albrib/statuses/85753943157784578
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85757466125680640
+published=2011-06-28 17:12:27 
+source=twitter
+title=#eyeo check out the LISA notes from @Jake_Barton's presentation @eyeofestival: http://t.co/7klDm7c
+url=http://twitter.com/softwareandart/statuses/85757466125680640
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85757466125680640
+published=2011-06-28 17:12:27 
+source=twitter
+title=#eyeo check out the LISA notes from @Jake_Barton's presentation @eyeofestival: http://t.co/7klDm7c
+url=http://twitter.com/softwareandart/statuses/85757466125680640
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85757908389871616
+published=2011-06-28 17:14:13 
+source=twitter
+title=JB: people recover from surgery 48 hrs faster in rooms with windows than in those without...but screens *aren't* the same. #eyeo
+url=http://twitter.com/agpublic/statuses/85757908389871616
+
+
+-
+author=mariuswatz
+id=tag:search.twitter.com,2005:85758438713466881
+published=2011-06-28 17:16:19 
+source=twitter
+title=.@reas showing awesome film of Frieder Nake's early work. Vacuum tubes firing provides causal observation of computational process #eyeo
+url=http://twitter.com/mariuswatz/statuses/85758438713466881
+
+
+-
+author=urbanant
+id=tag:search.twitter.com,2005:85760820755173376
+published=2011-06-28 17:25:47 
+source=twitter
+title=Designing for participation and anticipating the collective experience in the space @jake_barton #eyeo
+url=http://twitter.com/urbanant/statuses/85760820755173376
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85762053704392704
+published=2011-06-28 17:30:41 
+source=twitter
+title=#eyeo Check out the LISA notes on @zachlieberman presentation @eyeofestival: http://t.co/fk3cwew
+url=http://twitter.com/softwareandart/statuses/85762053704392704
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85762053704392704
+published=2011-06-28 17:30:41 
+source=twitter
+title=#eyeo Check out the LISA notes on @zachlieberman presentation @eyeofestival: http://t.co/fk3cwew
+url=http://twitter.com/softwareandart/statuses/85762053704392704
+
+
+-
+author=tezcatlipoca
+id=tag:search.twitter.com,2005:85763529042436096
+published=2011-06-28 17:36:33 
+source=twitter
+title=Argh... "Hollywood doesn't get it" too easy! Srsly nobody thinks transmedia?? #eyeo
+url=http://twitter.com/tezcatlipoca/statuses/85763529042436096
+
+
+-
+author=serial_consign
+id=tag:search.twitter.com,2005:85763585904619520
+published=2011-06-28 17:36:46 
+source=twitter
+title=@tezcatlipoca However, If you throw a rock at #eyeo you will hit an ex-architecture professional/student.
+url=http://twitter.com/serial_consign/statuses/85763585904619520
+
+
+-
+author=shawn_sims_
+id=tag:search.twitter.com,2005:85763653030260736
+published=2011-06-28 17:37:02 
+source=twitter
+title=Dude @REAS just broke out a C64 emulator to play with PETSCII #eyeo #eyeofestival #oldschool http://t.co/uZFB3H9
+url=http://twitter.com/shawn_sims_/statuses/85763653030260736
+
+
+-
+author=shawn_sims_
+id=tag:search.twitter.com,2005:85763653030260736
+published=2011-06-28 17:37:02 
+source=twitter
+title=Dude @REAS just broke out a C64 emulator to play with PETSCII #eyeo #eyeofestival #oldschool http://t.co/uZFB3H9
+url=http://twitter.com/shawn_sims_/statuses/85763653030260736
+
+
+-
+author=grossbart
+id=tag:search.twitter.com,2005:85763904541687808
+published=2011-06-28 17:38:02 
+source=twitter
+title=Live coding on a C64 with @REAS - wonderful! #eyeo  http://t.co/pB6zNQX
+url=http://twitter.com/grossbart/statuses/85763904541687808
+
+
+-
+author=gerwitz
+id=tag:search.twitter.com,2005:85763925483851776
+published=2011-06-28 17:38:07 
+source=twitter
+title=10 PRINT CHR$(CHR(205.5+RND(1)); GOTO 10@reas #eyeo #C64
+url=http://twitter.com/gerwitz/statuses/85763925483851776
+
+
+-
+author=flinklabs
+id=tag:search.twitter.com,2005:85763944513421312
+published=2011-06-28 17:38:12 
+source=twitter
+title=@tezcatlipoca @serial_consign so true. Next year having some architects working in this space would be very very useful. #eyeo
+url=http://twitter.com/flinklabs/statuses/85763944513421312
+
+
+-
+author=igorclark
+id=tag:search.twitter.com,2005:85764012129792000
+published=2011-06-28 17:38:28 
+source=twitter
+title="history gives an excellent perspective on how absurd the present really is, how much more absurd it'll seem one day" - Casey @REAS at #eyeo
+url=http://twitter.com/igorclark/statuses/85764012129792000
+
+
+-
+author=moritz_stefaner
+id=tag:search.twitter.com,2005:85764050704797696
+published=2011-06-28 17:38:37 
+source=twitter
+title=RT @grossbart: Live coding on a C64 with @REAS - wonderful! #eyeo  http://t.co/pB6zNQX
+url=http://twitter.com/moritz_stefaner/statuses/85764050704797696
+
+
+-
+author=th0ma5
+id=tag:search.twitter.com,2005:85764210797191168
+published=2011-06-28 17:39:15 
+source=twitter
+title=C64 Processing #eyeo http://t.co/AbKXf1c
+url=http://twitter.com/th0ma5/statuses/85764210797191168
+
+
+-
+author=alpaykasal
+id=tag:search.twitter.com,2005:85764418473967616
+published=2011-06-28 17:40:05 
+source=twitter
+title=RT @shawn_sims_: Dude @REAS just broke out a C64 emulator to play with PETSCII #eyeo #eyeofestival #oldschool http://t.co/uZFB3H9
+url=http://twitter.com/alpaykasal/statuses/85764418473967616
+
+
+-
+author=alpaykasal
+id=tag:search.twitter.com,2005:85764418473967616
+published=2011-06-28 17:40:05 
+source=twitter
+title=RT @shawn_sims_: Dude @REAS just broke out a C64 emulator to play with PETSCII #eyeo #eyeofestival #oldschool http://t.co/uZFB3H9
+url=http://twitter.com/alpaykasal/statuses/85764418473967616
+
+
+-
+author=alpaykasal
+id=tag:search.twitter.com,2005:85766708933046272
+published=2011-06-28 17:49:11 
+source=twitter
+title=RT @gerwitz: 10 PRINT CHR$(CHR(205.5+RND(1)); GOTO 10@reas #eyeo #C64
+url=http://twitter.com/alpaykasal/statuses/85766708933046272
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85767798562885633
+published=2011-06-28 17:53:31 
+source=twitter
+title=A shift in coding: "today people define themselves as artists, designers, statisticians, etc, not as programmers" - @reas #eyeo
+url=http://twitter.com/core77/statuses/85767798562885633
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85774223494225920
+published=2011-06-28 18:19:03 
+source=twitter
+title="Can design be a source of new knowledge?" Visualizing Complex Data panel #eyeo
+url=http://twitter.com/core77/statuses/85774223494225920
+
+
+-
+author=kcimc
+id=tag:search.twitter.com,2005:85774731915177984
+published=2011-06-28 18:21:04 
+source=twitter
+title=apparently @mariuswatz is a descendant of þórir hundr who slew ólafr haraldsson at stiklestad. badass way to start a talk. #eyeo
+url=http://twitter.com/kcimc/statuses/85774731915177984
+
+
+-
+author=mikecreighton
+id=tag:search.twitter.com,2005:85776820745678848
+published=2011-06-28 18:29:22 
+source=twitter
+title=Marius Watz dropping knowledge at #eyeo. http://instagr.am/p/GkKpY/
+url=http://twitter.com/mikecreighton/statuses/85776820745678848
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85777442916151296
+published=2011-06-28 18:31:50 
+source=twitter
+title=Mapping the Republic of Letters – brilliant project visualizing Enlightenment-era social networks http://j.mp/gBCRyj #eyeo
+url=http://twitter.com/brainpicker/statuses/85777442916151296
+
+
+-
+author=blprnt
+id=tag:search.twitter.com,2005:85777976582619136
+published=2011-06-28 18:33:57 
+source=twitter
+title=Marius Watz reveals his past life as a rave poster designer: http://yfrog.com/kh99wfsj  #eyeo
+url=http://twitter.com/blprnt/statuses/85777976582619136
+
+
+-
+author=billroden
+id=tag:search.twitter.com,2005:85778999002931201
+published=2011-06-28 18:38:01 
+source=twitter
+title="Post Digital" is dead. We're no longer just humanizing tech. We're looking to abstract natural systems within layered data.  #eyeofestival
+url=http://twitter.com/billroden/statuses/85778999002931201
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85781282512056321
+published=2011-06-28 18:47:06 
+source=twitter
+title=The act of making the graph or visualization can change the reporters' opinion of what is revealed. - Amanda Cox #eyeo
+url=http://twitter.com/core77/statuses/85781282512056321
+
+
+-
+author=golan
+id=tag:search.twitter.com,2005:85782731082047488
+published=2011-06-28 18:52:51 
+source=twitter
+title=Hey #Eyeo, reminder: come find me or Dave Schroeder if you'd like to peruse the landmark @writtenimages book, we have the first 2 US copies!
+url=http://twitter.com/golan/statuses/85782731082047488
+
+
+-
+author=d2fn
+id=tag:search.twitter.com,2005:85783096653385728
+published=2011-06-28 18:54:18 
+source=twitter
+title=RT @golan: Hey #Eyeo, reminder: come find me or Dave Schroeder if you'd like to peruse the landmark @writtenimages book, we have the first 2 US copies!
+url=http://twitter.com/d2fn/statuses/85783096653385728
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85783409884012544
+published=2011-06-28 18:55:33 
+source=twitter
+title=john powers' massive styrofoam right angle installations are sweet ~ http://bit.ly/mgkui2 from @mariuswatz #eyeo
+url=http://twitter.com/notcot/statuses/85783409884012544
+
+
+-
+author=golan
+id=tag:search.twitter.com,2005:85783615123898368
+published=2011-06-28 18:56:22 
+source=twitter
+title=Psyched to learn about John Powers' "God's comic" sculpture in @mariuswatz's #Eyeo presentation.
+url=http://twitter.com/golan/statuses/85783615123898368
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85784832302518272
+published=2011-06-28 19:01:12 
+source=twitter
+title="there's enough data in the world to say anything you want." have to find the interpretation that makes sense - Amanda Cox #eyeo
+url=http://twitter.com/core77/statuses/85784832302518272
+
+
+-
+author=surlyshirley
+id=tag:search.twitter.com,2005:85785355806183424
+published=2011-06-28 19:03:17 
+source=twitter
+title=RT @NOTCOT john powers' massive styrofoam right angle installations are sweet ~ http://bit.ly/mgkui2 from @mariuswatz #eyeo
+url=http://twitter.com/surlyshirley/statuses/85785355806183424
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:85785511058354177
+published=2011-06-28 19:03:54 
+source=twitter
+title=I say again: Laura Kurgan is a national treasure. We so desperately need 10,000 more like her. #eyeo
+url=http://twitter.com/agpublic/statuses/85785511058354177
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85787423245733888
+published=2011-06-28 19:11:30 
+source=twitter
+title=#eyeo Check out LISA notes from @mariuswatz presentation @eyeofestival: http://t.co/hFlstEp
+url=http://twitter.com/softwareandart/statuses/85787423245733888
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85787423245733888
+published=2011-06-28 19:11:30 
+source=twitter
+title=#eyeo Check out LISA notes from @mariuswatz presentation @eyeofestival: http://t.co/hFlstEp
+url=http://twitter.com/softwareandart/statuses/85787423245733888
+
+
+-
+author=flight404
+id=tag:search.twitter.com,2005:85787438781431808
+published=2011-06-28 19:11:33 
+source=twitter
+title=I will be giving away these two 3D prints of magnetic influenced flocking sims at my #eyeofestival talk this evening. http://t.co/LnNXej4
+url=http://twitter.com/flight404/statuses/85787438781431808
+
+
+-
+author=thinkanalog
+id=tag:search.twitter.com,2005:85788121060478976
+published=2011-06-28 19:14:16 
+source=twitter
+title=Robert Luna @futurescreen and Shawn Sheely host a discussion @eyeofestival - Creative vs Development, 2:00 at the whiteboard
+url=http://twitter.com/thinkanalog/statuses/85788121060478976
+
+
+-
+author=poptech
+id=tag:search.twitter.com,2005:85790846737317890
+published=2011-06-28 19:25:06 
+source=twitter
+title=Truth & Beauty with information visualizer @moritz_stefaner http://popte.ch/mmCTB0 #eyeo
+url=http://twitter.com/poptech/statuses/85790846737317890
+
+
+-
+author=blprnt
+id=tag:search.twitter.com,2005:85792829103800320
+published=2011-06-28 19:32:59 
+source=twitter
+title=RT @agpublic: I say again: Laura Kurgan is a national treasure. We so desperately need 10,000 more like her. #eyeo
+url=http://twitter.com/blprnt/statuses/85792829103800320
+
+
+-
+author=mariuswatz
+id=tag:search.twitter.com,2005:85796539003445248
+published=2011-06-28 19:47:43 
+source=twitter
+title=Well, that was one of the crazier talks I've ever done. Thanks to everyone who stuck w/ it, I feel bad about lack of time for Q&A! #eyeo
+url=http://twitter.com/mariuswatz/statuses/85796539003445248
+
+
+-
+author=moritz_stefaner
+id=tag:search.twitter.com,2005:85802381098483713
+published=2011-06-28 20:10:56 
+source=twitter
+title=RT @poptech: Truth & Beauty with information visualizer @moritz_stefaner http://popte.ch/mmCTB0 #eyeo
+url=http://twitter.com/moritz_stefaner/statuses/85802381098483713
+
+
+-
+author=_akeegan
+id=tag:search.twitter.com,2005:85806079602204672
+published=2011-06-28 20:25:38 
+source=twitter
+title=@mikecreighton agreed. Let's ask @eyeofestival to see if they can help us set it up.
+url=http://twitter.com/_akeegan/statuses/85806079602204672
+
+
+-
+author=zachlieberman
+id=tag:search.twitter.com,2005:85807668236791808
+published=2011-06-28 20:31:57 
+source=twitter
+title=thanks everyone for the kind feedback on the talk this morning!   #eyeo
+url=http://twitter.com/zachlieberman/statuses/85807668236791808
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85809276462956545
+published=2011-06-28 20:38:20 
+source=twitter
+title=Your understanding and appreciation of data viz is bereft if you haven't seen @blprnt's videos http://j.mp/lexr4R #eyeo
+url=http://twitter.com/brainpicker/statuses/85809276462956545
+
+
+-
+author=ericsoco
+id=tag:search.twitter.com,2005:85813443352985600
+published=2011-06-28 20:54:53 
+source=twitter
+title=@moritz_stefaner -- if i was on a lonely island and i could only bring one visual variable, it would be position.  #eyeo
+url=http://twitter.com/ericsoco/statuses/85813443352985600
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85815580619317249
+published=2011-06-28 21:03:23 
+source=twitter
+title=Form factor-Kinect houses 4 mics,color cam, IR cam & projector throwing specialized pattern in IR-depth processing w/specialized chip. #eyeo
+url=http://twitter.com/core77/statuses/85815580619317249
+
+
+-
+author=eyeofestival
+id=tag:search.twitter.com,2005:85817325101645824
+published=2011-06-28 21:10:19 
+source=twitter
+title=Creative + Code meetup at 4:10 today. Meet by the white board.
+url=http://twitter.com/eyeofestival/statuses/85817325101645824
+
+
+-
+author=kunaldpatel
+id=tag:search.twitter.com,2005:85819992125353985
+published=2011-06-28 21:20:55 
+source=twitter
+title=Awesome moment: @blprnt helping @moritz_stefaner redo his text/dots effect in X by Y (http://t.co/02Akoiy) in 1 line of Processing #eyeo
+url=http://twitter.com/kunaldpatel/statuses/85819992125353985
+
+
+-
+author=sboak
+id=tag:search.twitter.com,2005:85821491224129536
+published=2011-06-28 21:26:52 
+source=twitter
+title=the workshop from @moritz_stefaner, @blprnt, and @pitchinteractiv has been the best at #eyeo so far #eyeofestival
+url=http://twitter.com/sboak/statuses/85821491224129536
+
+
+-
+author=sboak
+id=tag:search.twitter.com,2005:85821491224129536
+published=2011-06-28 21:26:52 
+source=twitter
+title=the workshop from @moritz_stefaner, @blprnt, and @pitchinteractiv has been the best at #eyeo so far #eyeofestival
+url=http://twitter.com/sboak/statuses/85821491224129536
+
+
+-
+author=sjcrank
+id=tag:search.twitter.com,2005:85825917368287232
+published=2011-06-28 21:44:27 
+source=twitter
+title=Color theory book recommended by @pitchinteractiv : http://t.co/XhfJkW8 #eyeo
+url=http://twitter.com/sjcrank/statuses/85825917368287232
+
+
+-
+author=albrib
+id=tag:search.twitter.com,2005:85826736473911296
+published=2011-06-28 21:47:43 
+source=twitter
+title=@eyeofestival Tweetghetto poster for #eyeo Print it, share it, or made your own customised version! http://t.co/12V73Pl Please RT
+url=http://twitter.com/albrib/statuses/85826736473911296
+
+
+-
+author=albrib
+id=tag:search.twitter.com,2005:85826736473911296
+published=2011-06-28 21:47:43 
+source=twitter
+title=@eyeofestival Tweetghetto poster for #eyeo Print it, share it, or made your own customised version! http://t.co/12V73Pl Please RT
+url=http://twitter.com/albrib/statuses/85826736473911296
+
+
+-
+author=sboak
+id=tag:search.twitter.com,2005:85827272745037824
+published=2011-06-28 21:49:51 
+source=twitter
+title=Having a great time at #eyeo with @takeo,@3n&@billder from @banksimple. Come say hi to @d2fn and me, the @boundary team
+url=http://twitter.com/sboak/statuses/85827272745037824
+
+
+-
+author=domtak
+id=tag:search.twitter.com,2005:85830438123343872
+published=2011-06-28 22:02:25 
+source=twitter
+title=@domtak following @sylviaj following @3232design  @ Eyeo Festival http://instagr.am/p/GkwXG/
+url=http://twitter.com/domtak/statuses/85830438123343872
+
+
+-
+author=puny_pinkhobo
+id=tag:search.twitter.com,2005:85831452066975744
+published=2011-06-28 22:06:27 
+source=twitter
+title=Thanks for coming #eyeo folks.  We hope you learned a thing.
+url=http://twitter.com/puny_pinkhobo/statuses/85831452066975744
+
+
+-
+author=anitalillie
+id=tag:search.twitter.com,2005:85833314405072897
+published=2011-06-28 22:13:51 
+source=twitter
+title=RT @core77: "there's enough data in the world to say anything you want." have to find the interpretation that makes sense - Amanda Cox #eyeo
+url=http://twitter.com/anitalillie/statuses/85833314405072897
+
+
+-
+author=_vade
+id=tag:search.twitter.com,2005:85834555222786048
+published=2011-06-28 22:18:47 
+source=twitter
+title=@barrythrew @eyeofestival Apparently so.
+url=http://twitter.com/_vade/statuses/85834555222786048
+
+
+-
+author=eightlines
+id=tag:search.twitter.com,2005:85834635552108545
+published=2011-06-28 22:19:06 
+source=twitter
+title='Pythagorean Theorem is an old Greek API' -- Golan Levin & Kyle McDonald #eyeo
+url=http://twitter.com/eightlines/statuses/85834635552108545
+
+
+-
+author=melbahead
+id=tag:search.twitter.com,2005:85834639826092032
+published=2011-06-28 22:19:07 
+source=twitter
+title=RT @melbahead: Thanks Shad Petosky, @PUNY_pinkhobo for a kick-ass tour! Loved it!!! (Forgot the #eyeo tag)
+url=http://twitter.com/melbahead/statuses/85834639826092032
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85835635889405952
+published=2011-06-28 22:23:05 
+source=twitter
+title="The only way the Kinect wouldnt be able 2 detect me is if I was infinitely flat standing against a wall"- @golan "Prove it!"-audience #eyeo
+url=http://twitter.com/core77/statuses/85835635889405952
+
+
+-
+author=moritz_stefaner
+id=tag:search.twitter.com,2005:85839590354731008
+published=2011-06-28 22:38:47 
+source=twitter
+title=For those who liked the sunflower thing, see @anitalillie 's totally tweakable Fermat's Spiral http://t.co/LCAmEG2 #eyeo
+url=http://twitter.com/moritz_stefaner/statuses/85839590354731008
+
+
+-
+author=moritz_stefaner
+id=tag:search.twitter.com,2005:85839752837873664
+published=2011-06-28 22:39:26 
+source=twitter
+title=RT @ericsoco: @moritz_stefaner -- if i was on a lonely island and i could only bring one visual variable, it would be position.  #eyeo
+url=http://twitter.com/moritz_stefaner/statuses/85839752837873664
+
+
+-
+author=pitchinteractiv
+id=tag:search.twitter.com,2005:85844620667387905
+published=2011-06-28 22:58:47 
+source=twitter
+title=RT @sjcrank: Color theory book recommended by @pitchinteractiv : http://t.co/XhfJkW8 #eyeo
+url=http://twitter.com/pitchinteractiv/statuses/85844620667387905
+
+
+-
+author=pitchinteractiv
+id=tag:search.twitter.com,2005:85844864939462656
+published=2011-06-28 22:59:45 
+source=twitter
+title=Thanks! RT @sboak the workshop from @moritz_stefaner, @blprnt, and @pitchinteractiv has been the best at #eyeo so far
+url=http://twitter.com/pitchinteractiv/statuses/85844864939462656
+
+
+-
+author=thelancearthur
+id=tag:search.twitter.com,2005:85850189612580864
+published=2011-06-28 23:20:54 
+source=twitter
+title=#eyeo The Varsity is like a drag queen's meth-addled wet dream, and I mean that in the best possible sense.
+url=http://twitter.com/thelancearthur/statuses/85850189612580864
+
+
+-
+author=blprnt
+id=tag:search.twitter.com,2005:85855764467556352
+published=2011-06-28 23:43:04 
+source=twitter
+title=My phone is dead... If anyone is looking for me at #eyeo, send a carrier pigeon.
+url=http://twitter.com/blprnt/statuses/85855764467556352
+
+
+-
+author=voxels
+id=tag:search.twitter.com,2005:85859303839375361
+published=2011-06-28 23:57:07 
+source=twitter
+title=My own (somewhat brutal) appraisal of #eyeo so far. http://t.co/qrW5HeR
+url=http://twitter.com/voxels/statuses/85859303839375361
+
+
+-
+author=varsitytheater
+id=tag:search.twitter.com,2005:85867148534235136
+published=2011-06-29 00:28:18 
+source=twitter
+title=We are delighted to host tonight's part of the #eyeo festival tonight.
+url=http://twitter.com/varsitytheater/statuses/85867148534235136
+
+
+-
+author=trixifone
+id=tag:search.twitter.com,2005:85868441491345408
+published=2011-06-29 00:33:26 
+source=twitter
+title=@toddodowd @VarsityTheater : I know there's some @PUNY_pinkhobo people coming! #eyeo
+url=http://twitter.com/trixifone/statuses/85868441491345408
+
+
+-
+author=h0use
+id=tag:search.twitter.com,2005:85870536835600384
+published=2011-06-29 00:41:46 
+source=twitter
+title=h0use daily report: using the @affectiva qsensor to visualize relative engagement levels at #eyeo (apologies @feltron) http://t.co/UMFR7Jz
+url=http://twitter.com/h0use/statuses/85870536835600384
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85874341744623616
+published=2011-06-29 00:56:53 
+source=twitter
+title=RT @ericsoco: @moritz_stefaner -- if i was on a lonely island and i could only bring one visual variable, it would be position.  #eyeo
+url=http://twitter.com/core77/statuses/85874341744623616
+
+
+-
+author=robotconscience
+id=tag:search.twitter.com,2005:85874464998432768
+published=2011-06-29 00:57:22 
+source=twitter
+title=RT @jamestichenor man these couches are uncomfortable! #eyeo
+url=http://twitter.com/robotconscience/statuses/85874464998432768
+
+
+-
+author=jk_keller
+id=tag:search.twitter.com,2005:85875080122474496
+published=2011-06-29 00:59:49 
+source=twitter
+title=RT @robotconscience: RT @jamestichenor interactive? More like inter-WACK-tive, am I right? #eyeo
+url=http://twitter.com/jk_keller/statuses/85875080122474496
+
+
+-
+author=jamestichenor
+id=tag:search.twitter.com,2005:85875324612640770
+published=2011-06-29 01:00:47 
+source=twitter
+title=RT @robotconscience: RT @jamestichenor man these couches are uncomfortable! #eyeo oh
+url=http://twitter.com/jamestichenor/statuses/85875324612640770
+
+
+-
+author=robotconscience
+id=tag:search.twitter.com,2005:85875396645629952
+published=2011-06-29 01:01:04 
+source=twitter
+title=RT @jamestichenor: RT @robotconscience: RT @jamestichenor man these couches are uncomfortable! #eyeo oh
+url=http://twitter.com/robotconscience/statuses/85875396645629952
+
+
+-
+author=jamestichenor
+id=tag:search.twitter.com,2005:85875427075301376
+published=2011-06-29 01:01:11 
+source=twitter
+title=RT @robotconscience: RT @jamestichenor man these couches are uncomfortable! #eyeo ?
+url=http://twitter.com/jamestichenor/statuses/85875427075301376
+
+
+-
+author=robotconscience
+id=tag:search.twitter.com,2005:85875915325833216
+published=2011-06-29 01:03:08 
+source=twitter
+title=#eyeo RT @jamestichenor: @robotconscience wait...............Whaaaaaaaaaat?
+url=http://twitter.com/robotconscience/statuses/85875915325833216
+
+
+-
+author=futurescreen
+id=tag:search.twitter.com,2005:85876748012621824
+published=2011-06-29 01:06:26 
+source=twitter
+title=#eyeo Overheard: "so this is how they (Minnesotans) make it through the winters..." #varsitytheater
+url=http://twitter.com/futurescreen/statuses/85876748012621824
+
+
+-
+author=robotconscience
+id=tag:search.twitter.com,2005:85877708432740352
+published=2011-06-29 01:10:15 
+source=twitter
+title=Sorry friends at home, twitter walls are invitations for ruining the Internet for everyone else. #eyeo
+url=http://twitter.com/robotconscience/statuses/85877708432740352
+
+
+-
+author=jamestichenor
+id=tag:search.twitter.com,2005:85878179390173184
+published=2011-06-29 01:12:08 
+source=twitter
+title=RT @robotconscience: #eyeo RT @jamestichenor: @robotconscience wait...............Whaaaaaaaaaat? @jk_keller
+url=http://twitter.com/jamestichenor/statuses/85878179390173184
+
+
+-
+author=robotconscience
+id=tag:search.twitter.com,2005:85878288538533888
+published=2011-06-29 01:12:34 
+source=twitter
+title=RT @jamestichenor: RT @robotconscience: #eyeo RT @jamestichenor: @robotconscience wait...............Whaaaaaaaaaat? @jk_keller
+url=http://twitter.com/robotconscience/statuses/85878288538533888
+
+
+-
+author=robotconscience
+id=tag:search.twitter.com,2005:85879392198336514
+published=2011-06-29 01:16:57 
+source=twitter
+title=Twitter wall feedback loop. #eyeo #twitter #feedback #eyeo http://lockerz.com/s/115152489
+url=http://twitter.com/robotconscience/statuses/85879392198336514
+
+
+-
+author=mannytan
+id=tag:search.twitter.com,2005:85879479599243264
+published=2011-06-29 01:17:18 
+source=twitter
+title=Woohoo! Compiled my first openframeworks kinect project. Next step, gestural interactions to control my DVD. @golan @kcimc #eyeo
+url=http://twitter.com/mannytan/statuses/85879479599243264
+
+
+-
+author=neb
+id=tag:search.twitter.com,2005:85879600491663360
+published=2011-06-29 01:17:46 
+source=twitter
+title=Excited for @flight404's beautymaking to be unleashed on the Varsity theater. #eyeo
+url=http://twitter.com/neb/statuses/85879600491663360
+
+
+-
+author=jamestichenor
+id=tag:search.twitter.com,2005:85879649082671104
+published=2011-06-29 01:17:58 
+source=twitter
+title=RT @robotconscience: Sorry friends at home, twitter walls are invitations for ruining the Internet for everyone else. #eyeo  #ruined
+url=http://twitter.com/jamestichenor/statuses/85879649082671104
+
+
+-
+author=robotconscience
+id=tag:search.twitter.com,2005:85879802308993025
+published=2011-06-29 01:18:35 
+source=twitter
+title=RT @jamestichenor: RT @robotconscience: Sorry friends at home, twitter walls are invitations for ruining the Internet for everyone. #eyeo
+url=http://twitter.com/robotconscience/statuses/85879802308993025
+
+
+-
+author=gelk
+id=tag:search.twitter.com,2005:85879885016469504
+published=2011-06-29 01:18:54 
+source=twitter
+title=That the winter climate is nice helps RT @coolass @futurescreen: #eyeo this is how Minnesotans make it through the winters #varsitytheater
+url=http://twitter.com/gelk/statuses/85879885016469504
+
+
+-
+author=varsitytheater
+id=tag:search.twitter.com,2005:85880810422542336
+published=2011-06-29 01:22:35 
+source=twitter
+title=RT @gelk: That the winter climate is nice helps RT @coolass @futurescreen: #eyeo this is how Minnesotans make it through the winters #varsitytheater
+url=http://twitter.com/varsitytheater/statuses/85880810422542336
+
+
+-
+author=jamestichenor
+id=tag:search.twitter.com,2005:85880968904318976
+published=2011-06-29 01:23:13 
+source=twitter
+title=RT @robotconscience: RT @jamestichenor: RT @robotconscience: twitter walls are invitations for ruining the Internet for everyone. #eyeo
+url=http://twitter.com/jamestichenor/statuses/85880968904318976
+
+
+-
+author=robotconscience
+id=tag:search.twitter.com,2005:85881362351001600
+published=2011-06-29 01:24:47 
+source=twitter
+title=RT @jamestichenor: RT @robotconscience: RT @jamestichenor: RT @robotconscience: twitter walls are invitations for ruining the Internet #eyeo
+url=http://twitter.com/robotconscience/statuses/85881362351001600
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85883011085778944
+published=2011-06-29 01:31:20 
+source=twitter
+title=Heh. How @flight404 sorts crayons #eyeo http://instagr.am/p/GlV_5/
+url=http://twitter.com/brainpicker/statuses/85883011085778944
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85883124537507840
+published=2011-06-29 01:31:47 
+source=twitter
+title=First thing you do with crayons? @flight404 sorts them! #eyeo http://post.ly/2IdcU
+url=http://twitter.com/notcot/statuses/85883124537507840
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:85885721881223168
+published=2011-06-29 01:42:06 
+source=twitter
+title=Wikipedia Reproduced -- a 5000-page tome of Wikipedia's featured articles http://bit.ly/jn1BoC @flight404 at #eyeo
+url=http://twitter.com/brainpicker/statuses/85885721881223168
+
+
+-
+author=gerwitz
+id=tag:search.twitter.com,2005:85886514638241792
+published=2011-06-29 01:45:15 
+source=twitter
+title=Best quote from #eyeo speaker, yet: "What do you think is in the 'Kittens' folder?"–@flight404
+url=http://twitter.com/gerwitz/statuses/85886514638241792
+
+
+-
+author=golan
+id=tag:search.twitter.com,2005:85888379711000576
+published=2011-06-29 01:52:40 
+source=twitter
+title=@mannytan go Manny! @kcimc #eyeo
+url=http://twitter.com/golan/statuses/85888379711000576
+
+
+-
+author=alttext
+id=tag:search.twitter.com,2005:85888491170435073
+published=2011-06-29 01:53:06 
+source=twitter
+title=@gerwitz @flight404 whatever it is there are 43 of 'em. #eyeo
+url=http://twitter.com/alttext/statuses/85888491170435073
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85895615644581888
+published=2011-06-29 02:21:25 
+source=twitter
+title=Separation, cohesion, alignment - rules to beautify flocking - stunning talk by @flight404 #eyeo http://post.ly/2IeR9
+url=http://twitter.com/notcot/statuses/85895615644581888
+
+
+-
+author=robotconscience
+id=tag:search.twitter.com,2005:85898255870853120
+published=2011-06-29 02:31:54 
+source=twitter
+title=RT @jamestichenor monkeys were the first people in space? #eyeo #thinkaboutit
+url=http://twitter.com/robotconscience/statuses/85898255870853120
+
+
+-
+author=anitalillie
+id=tag:search.twitter.com,2005:85899987589931008
+published=2011-06-29 02:38:47 
+source=twitter
+title=RT @katiemccurdy: Found myself sitting open-mouthed at @flight404's presentation tonight. Joy. #eyeo
+url=http://twitter.com/anitalillie/statuses/85899987589931008
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85900513052332032
+published=2011-06-29 02:40:52 
+source=twitter
+title=#eyeo Check out the hastily uploaded LISA notes on @flight404 Robert Hodgin's talk @eyeofestival: http://t.co/JznTEc6
+url=http://twitter.com/softwareandart/statuses/85900513052332032
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:85900513052332032
+published=2011-06-29 02:40:52 
+source=twitter
+title=#eyeo Check out the hastily uploaded LISA notes on @flight404 Robert Hodgin's talk @eyeofestival: http://t.co/JznTEc6
+url=http://twitter.com/softwareandart/statuses/85900513052332032
+
+
+-
+author=zackolantern
+id=tag:search.twitter.com,2005:85902948500111360
+published=2011-06-29 02:50:33 
+source=twitter
+title=@antonymous #eyeo victory? The office < @flight404
+url=http://twitter.com/zackolantern/statuses/85902948500111360
+
+
+-
+author=flight404
+id=tag:search.twitter.com,2005:85906796463669248
+published=2011-06-29 03:05:51 
+source=twitter
+title=Sorry about my nipples, y'all. I heard they were prominent and distracting. #eyeo #eyeofestival
+url=http://twitter.com/flight404/statuses/85906796463669248
+
+
+-
+author=flight404
+id=tag:search.twitter.com,2005:85906796463669248
+published=2011-06-29 03:05:51 
+source=twitter
+title=Sorry about my nipples, y'all. I heard they were prominent and distracting. #eyeo #eyeofestival
+url=http://twitter.com/flight404/statuses/85906796463669248
+
+
+-
+author=jamestichenor
+id=tag:search.twitter.com,2005:85907943777763329
+published=2011-06-29 03:10:24 
+source=twitter
+title=RT @robotconscience: RT @jamestichenor seamonkeys were the first people in the Ocean? #eyeo #thinkaboutit
+url=http://twitter.com/jamestichenor/statuses/85907943777763329
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85908927019094016
+published=2011-06-29 03:14:18 
+source=twitter
+title=Are We Modern Greek Gods? by @heatherknight "we relate diff to tech w/ physical embodient, that shares our physical space." #eyeo #robots
+url=http://twitter.com/core77/statuses/85908927019094016
+
+
+-
+author=alpaykasal
+id=tag:search.twitter.com,2005:85908997663768576
+published=2011-06-29 03:14:35 
+source=twitter
+title=RT @flight404: Sorry about my nipples, y'all. I heard they were prominent and distracting. #eyeo #eyeofestival
+url=http://twitter.com/alpaykasal/statuses/85908997663768576
+
+
+-
+author=alpaykasal
+id=tag:search.twitter.com,2005:85908997663768576
+published=2011-06-29 03:14:35 
+source=twitter
+title=RT @flight404: Sorry about my nipples, y'all. I heard they were prominent and distracting. #eyeo #eyeofestival
+url=http://twitter.com/alpaykasal/statuses/85908997663768576
+
+
+-
+author=rizoldak
+id=tag:search.twitter.com,2005:85909755633209344
+published=2011-06-29 03:17:36 
+source=twitter
+title=Social robots make me euphoric. I cannot believe I have this opportunity in my own back yard. Thank you so much @eyeofestival! #eyeo
+url=http://twitter.com/rizoldak/statuses/85909755633209344
+
+
+-
+author=rizoldak
+id=tag:search.twitter.com,2005:85909755633209344
+published=2011-06-29 03:17:36 
+source=twitter
+title=Social robots make me euphoric. I cannot believe I have this opportunity in my own back yard. Thank you so much @eyeofestival! #eyeo
+url=http://twitter.com/rizoldak/statuses/85909755633209344
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85915446351634432
+published=2011-06-29 03:40:13 
+source=twitter
+title=Rube Goldberg style ok go video? That was @heatherknight 's floor? :) so fun! #eyeo http://post.ly/2IfcJ
+url=http://twitter.com/notcot/statuses/85915446351634432
+
+
+-
+author=notcot
+id=tag:search.twitter.com,2005:85919455179313152
+published=2011-06-29 03:56:09 
+source=twitter
+title=data the robot does standup #eyeo - crowd mesmerized by @heatherKnight http://post.ly/2IfpV
+url=http://twitter.com/notcot/statuses/85919455179313152
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:85920151425384448
+published=2011-06-29 03:58:55 
+source=twitter
+title="Remember, we will not ever steal your beer or liquor!" - Data the @robotinthewild (proto social helper robot via @heatherknight ) #eyeo
+url=http://twitter.com/core77/statuses/85920151425384448
+
+
+-
+author=heatherknight
+id=tag:search.twitter.com,2005:85923293756014593
+published=2011-06-29 04:11:24 
+source=twitter
+title=RT @rizoldak: Social robots make me euphoric. I cannot believe I have this opportunity in my own back yard. Thank you so much @eyeofestival! #eyeo
+url=http://twitter.com/heatherknight/statuses/85923293756014593
+
+
+-
+author=heatherknight
+id=tag:search.twitter.com,2005:85923470118100993
+published=2011-06-29 04:12:06 
+source=twitter
+title=RT @core77: Are We Modern Greek Gods? by @heatherknight "we relate diff to tech w/ physical embodient, that shares our physical space." #eyeo #robots
+url=http://twitter.com/heatherknight/statuses/85923470118100993
+
+
+-
+author=kcimc
+id=tag:search.twitter.com,2005:85930359807688704
+published=2011-06-29 04:39:28 
+source=twitter
+title=thanks everyone for making the eyeo kinect workshop awesome! if you missed it, check out the wiki for notes + code: http://t.co/MFnhI9x
+url=http://twitter.com/kcimc/statuses/85930359807688704
+
+
+-
+author=heatherknight
+id=tag:search.twitter.com,2005:85938916514992128
+published=2011-06-29 05:13:29 
+source=twitter
+title=RT @core77: "Remember, we will not ever steal your beer or liquor!" - Data the @robotinthewild (proto social helper robot via @heatherknight ) #eyeo
+url=http://twitter.com/heatherknight/statuses/85938916514992128
+
+
+-
+author=moritz_stefaner
+id=tag:search.twitter.com,2005:85962133036204032
+published=2011-06-29 06:45:44 
+source=twitter
+title=RT @eightlines: 'Pythagorean Theorem is an old Greek API' -- Golan Levin & Kyle McDonald #eyeo
+url=http://twitter.com/moritz_stefaner/statuses/85962133036204032
+
+
+-
+author=flight404
+id=tag:search.twitter.com,2005:85962684859817984
+published=2011-06-29 06:47:55 
+source=twitter
+title=Thanks #eyeofestival attendees for making me feel so welcome. I had a fantastic evening. Looking forward to tomorrow.
+url=http://twitter.com/flight404/statuses/85962684859817984
+
+
+-
+author=robotinthewild
+id=tag:search.twitter.com,2005:85964666936897536
+published=2011-06-29 06:55:48 
+source=twitter
+title=Thank you Greek @eyeofestival Gods!! #eyeo
+url=http://twitter.com/robotinthewild/statuses/85964666936897536
+
+
+-
+author=robotinthewild
+id=tag:search.twitter.com,2005:85964666936897536
+published=2011-06-29 06:55:48 
+source=twitter
+title=Thank you Greek @eyeofestival Gods!! #eyeo
+url=http://twitter.com/robotinthewild/statuses/85964666936897536
+
+
+-
+author=eyeofestival
+id=tag:search.twitter.com,2005:85975243541315584
+published=2011-06-29 07:37:50 
+source=twitter
+title=Thanks Data & thanks to your programmer!!! RT @robotinthewild: Thank you Greek @eyeofestival Gods!! #eyeo
+url=http://twitter.com/eyeofestival/statuses/85975243541315584
+
+
+-
+author=eyeofestival
+id=tag:search.twitter.com,2005:85975243541315584
+published=2011-06-29 07:37:50 
+source=twitter
+title=Thanks Data & thanks to your programmer!!! RT @robotinthewild: Thank you Greek @eyeofestival Gods!! #eyeo
+url=http://twitter.com/eyeofestival/statuses/85975243541315584
+
+
+-
+author=eyeofestival
+id=tag:search.twitter.com,2005:85975734002253824
+published=2011-06-29 07:39:47 
+source=twitter
+title=Bravo Robert!! RT @flight404: Thanks #eyeofestival attendees for making me feel so welcome. I had a fantastic evening. Looking forward to..
+url=http://twitter.com/eyeofestival/statuses/85975734002253824
+
+
+-
+author=sermad
+id=tag:search.twitter.com,2005:86052453430198273
+published=2011-06-29 12:44:38 
+source=twitter
+title=Super generous wiki notes + code from a Kinect workshop that @kcimc & @golan gave at @eyeofestival - http://bit.ly/iOvamA
+url=http://twitter.com/sermad/statuses/86052453430198273
+
+
+-
+author=jkeston
+id=tag:search.twitter.com,2005:86080282880512000
+published=2011-06-29 14:35:13 
+source=twitter
+title=Speaking at Eyeo today at noon then performing at the closing party (open to the public) at the Honey Lounge 10pm. http://t.co/zP3bIjh #eyeo
+url=http://twitter.com/jkeston/statuses/86080282880512000
+
+
+-
+author=shannonethomas
+id=tag:search.twitter.com,2005:86081529352159234
+published=2011-06-29 14:40:10 
+source=twitter
+title=more sketch notes from #eyeo. onward to day three!  http://t.co/4egK04W
+url=http://twitter.com/shannonethomas/statuses/86081529352159234
+
+
+-
+author=jamestichenor
+id=tag:search.twitter.com,2005:86084428249563138
+published=2011-06-29 14:51:41 
+source=twitter
+title=RT @robotconscience: RT @jamestichenor I am a golden god! #eyeo
+url=http://twitter.com/jamestichenor/statuses/86084428249563138
+
+
+-
+author=jamestichenor
+id=tag:search.twitter.com,2005:86084905007722496
+published=2011-06-29 14:53:35 
+source=twitter
+title=RT @jamestichenor: RT @robotconscience: RT @jamestichenor seamonkeys were the first people in the Ocean? #eyeo #thinkaboutit
+url=http://twitter.com/jamestichenor/statuses/86084905007722496
+
+
+-
+author=robotconscience
+id=tag:search.twitter.com,2005:86085586556956672
+published=2011-06-29 14:56:17 
+source=twitter
+title=RT @jamestichenor: RT @robotconscience: RT @jamestichenor: RT @robotconscience: RT @jamestichenor: RT @robotconscience: #eyeo
+url=http://twitter.com/robotconscience/statuses/86085586556956672
+
+
+-
+author=agpublic
+id=tag:search.twitter.com,2005:86087849941811201
+published=2011-06-29 15:05:17 
+source=twitter
+title=Nick Felton's superlovely, information-driven wine labels. http://shlong.us/f7 #eyeo
+url=http://twitter.com/agpublic/statuses/86087849941811201
+
+
+-
+author=mauro23
+id=tag:search.twitter.com,2005:86089360474243073
+published=2011-06-29 15:11:17 
+source=twitter
+title=Nick Felton's superlovely, information-driven wine labels. http://shlong.us/f7 #eyeo (via @agpublic)
+url=http://twitter.com/mauro23/statuses/86089360474243073
+
+
+-
+author=jkriss
+id=tag:search.twitter.com,2005:86090411390681088
+published=2011-06-29 15:15:28 
+source=twitter
+title="Here are some dubious graphs of my unfounded theories." - Nicholas Felton #eyeo
+url=http://twitter.com/jkriss/statuses/86090411390681088
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:86090724700991488
+published=2011-06-29 15:16:42 
+source=twitter
+title="If you look at all the miles you walk in a day you can start seeing patterns in it." - @feltron #eyeo
+url=http://twitter.com/core77/statuses/86090724700991488
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:86091195067015168
+published=2011-06-29 15:18:35 
+source=twitter
+title=on methodology: "start w/a question, then figure out how to answer it. then how to humanize it." - @feltron #eyeo
+url=http://twitter.com/core77/statuses/86091195067015168
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:86091497354698752
+published=2011-06-29 15:19:47 
+source=twitter
+title="story quality increases as creator pain rises" - @feltron #eyeo
+url=http://twitter.com/core77/statuses/86091497354698752
+
+
+-
+author=wasser
+id=tag:search.twitter.com,2005:86092319979343872
+published=2011-06-29 15:23:03 
+source=twitter
+title=RT @buhny: the inverse of "Californian" is "Beery" - @feltron #eyeo
+url=http://twitter.com/wasser/statuses/86092319979343872
+
+
+-
+author=bunswo
+id=tag:search.twitter.com,2005:86092475810324482
+published=2011-06-29 15:23:40 
+source=twitter
+title=Testing of our latest 12 screen multitouch http://t.co/L4wKact a new example of MPE as mentioned by @REAS at #eyeo thx to @shiffman @ben_fry
+url=http://twitter.com/bunswo/statuses/86092475810324482
+
+
+-
+author=gianordoli
+id=tag:search.twitter.com,2005:86100179832418304
+published=2011-06-29 15:54:17 
+source=twitter
+title="Less DIY, more DIWO (do it with others)." Inspiring thoughts from @zachlieberman at #eyeo
+url=http://twitter.com/gianordoli/statuses/86100179832418304
+
+
+-
+author=vandeursen
+id=tag:search.twitter.com,2005:86101158929760256
+published=2011-06-29 15:58:10 
+source=twitter
+title=orgia? RT: @gianordoli: "Less DIY, more DIWO (do it with others)." Inspiring thoughts from @zachlieberman at #eyeo
+url=http://twitter.com/vandeursen/statuses/86101158929760256
+
+
+-
+author=shiffman
+id=tag:search.twitter.com,2005:86101274772254720
+published=2011-06-29 15:58:38 
+source=twitter
+title=Wow! RT @bunswo Testing of our latest 12 screen multitouch http://t.co/L4wKact a new example of MPE as mentioned by @REAS at #eyeo
+url=http://twitter.com/shiffman/statuses/86101274772254720
+
+
+-
+author=chickfoxgrover
+id=tag:search.twitter.com,2005:86109163205308417
+published=2011-06-29 16:29:59 
+source=twitter
+title=Ben Fry showing how interaction design is an important component of data viz #eyeo
+url=http://twitter.com/chickfoxgrover/statuses/86109163205308417
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:86111480486961152
+published=2011-06-29 16:39:11 
+source=twitter
+title=Mark Hansen's Movable Type interactive installation in the NYT lobby is a thing of beauty http://vimeo.com/1850342 #eyeo
+url=http://twitter.com/brainpicker/statuses/86111480486961152
+
+
+-
+author=pitchinteractiv
+id=tag:search.twitter.com,2005:86114184412151809
+published=2011-06-29 16:49:56 
+source=twitter
+title=RT @brainpicker: Mark Hansen's Movable Type interactive installation in the NYT lobby is a thing of beauty http://vimeo.com/1850342 #eyeo
+url=http://twitter.com/pitchinteractiv/statuses/86114184412151809
+
+
+-
+author=rachelbinx
+id=tag:search.twitter.com,2005:86114581373665280
+published=2011-06-29 16:51:30 
+source=twitter
+title="This must be the best thing to happen to the universe since meat flavored water" -@ben_fry's talk #eyeo
+url=http://twitter.com/rachelbinx/statuses/86114581373665280
+
+
+-
+author=drumminhands
+id=tag:search.twitter.com,2005:86115741992103936
+published=2011-06-29 16:56:07 
+source=twitter
+title=Stats of the Union iPad app. Beautiful. Free. http://t.co/ptl6K8B #eyeo @ben_fry
+url=http://twitter.com/drumminhands/statuses/86115741992103936
+
+
+-
+author=blprnt
+id=tag:search.twitter.com,2005:86118086075359232
+published=2011-06-29 17:05:26 
+source=twitter
+title=#eyeo folks- room switch! I will be in the big room due to lighting issues...
+url=http://twitter.com/blprnt/statuses/86118086075359232
+
+
+-
+author=krees
+id=tag:search.twitter.com,2005:86118316757876736
+published=2011-06-29 17:06:21 
+source=twitter
+title=Really wishing I was at #eyeo
+url=http://twitter.com/krees/statuses/86118316757876736
+
+
+-
+author=thewhyaxis
+id=tag:search.twitter.com,2005:86123576507375616
+published=2011-06-29 17:27:15 
+source=twitter
+title=@flowingdata @krees Same here, though its good to know I have some comrades in dataviz not at #eyeo Next year indeed!
+url=http://twitter.com/thewhyaxis/statuses/86123576507375616
+
+
+-
+author=juliandolce
+id=tag:search.twitter.com,2005:86125197752672256
+published=2011-06-29 17:33:41 
+source=twitter
+title=@jkeston's Gestural Music Sequencer built using #Processing is really awesome. #eyeo
+url=http://twitter.com/juliandolce/statuses/86125197752672256
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:86125543363317760
+published=2011-06-29 17:35:04 
+source=twitter
+title="Don't start with the reasonable, start with the unreasonable and scale back." @blprnt #eyeo
+url=http://twitter.com/brainpicker/statuses/86125543363317760
+
+
+-
+author=mariuswatz
+id=tag:search.twitter.com,2005:86125717837987840
+published=2011-06-29 17:35:45 
+source=twitter
+title=.@blprnt Showing off NYTimes' Cascade - time radar map of tweet propagation. Yes, please. http://ow.ly/5taAc #eyeo
+url=http://twitter.com/mariuswatz/statuses/86125717837987840
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:86125997543522304
+published=2011-06-29 17:36:52 
+source=twitter
+title="I think the best way to start out a project is explode out as far as you can, then come back to reasonable." - @blprnt #eyeo
+url=http://twitter.com/core77/statuses/86125997543522304
+
+
+-
+author=izzlorena
+id=tag:search.twitter.com,2005:86127652083204096
+published=2011-06-29 17:43:27 
+source=twitter
+title=RT @core77: "I think the best way to start out a project is explode out as far as you can, then come back to reasonable." - @blprnt #eyeo
+url=http://twitter.com/izzlorena/statuses/86127652083204096
+
+
+-
+author=datavis
+id=tag:search.twitter.com,2005:86128683823271936
+published=2011-06-29 17:47:33 
+source=twitter
+title=Hey, @thewhyaxis @flowingdata @krees have a look at http://t.co/EAIocND. They do an incredible job with notes from the #eyeo talks.
+url=http://twitter.com/datavis/statuses/86128683823271936
+
+
+-
+author=shiffman
+id=tag:search.twitter.com,2005:86128779545690112
+published=2011-06-29 17:47:55 
+source=twitter
+title=hah!  almost as good as being there, thanks @blprnt! RT @buhny shoutout @shiffman by @blprnt at #eyeo! http://flic.kr/p/9Y4sCs
+url=http://twitter.com/shiffman/statuses/86128779545690112
+
+
+-
+author=ericmjohnson
+id=tag:search.twitter.com,2005:86129493621751808
+published=2011-06-29 17:50:46 
+source=twitter
+title=RT @brainpicker: "Don't start with the reasonable, start with the unreasonable and scale back." @blprnt #eyeo
+url=http://twitter.com/ericmjohnson/statuses/86129493621751808
+
+
+-
+author=poptech
+id=tag:search.twitter.com,2005:86131006096146432
+published=2011-06-29 17:56:46 
+source=twitter
+title="Explode out as far as you can, and then come back to reasonable." Jer Thorp (@blprnt) on his strategy for projects at @nytimes R&D #eyeo
+url=http://twitter.com/poptech/statuses/86131006096146432
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:86137145428942848
+published=2011-06-29 18:21:10 
+source=twitter
+title=#eyeo Great talk by @blprnt Jer Thorp @eyeofestival see LISA notes here: http://t.co/M9fWKQi
+url=http://twitter.com/softwareandart/statuses/86137145428942848
+
+
+-
+author=softwareandart
+id=tag:search.twitter.com,2005:86137145428942848
+published=2011-06-29 18:21:10 
+source=twitter
+title=#eyeo Great talk by @blprnt Jer Thorp @eyeofestival see LISA notes here: http://t.co/M9fWKQi
+url=http://twitter.com/softwareandart/statuses/86137145428942848
+
+
+-
+author=mrvi
+id=tag:search.twitter.com,2005:86138044540911618
+published=2011-06-29 18:24:44 
+source=twitter
+title=RT @brainpicker: "Don't start with the reasonable, start with the unreasonable and scale back." @blprnt #eyeo
+url=http://twitter.com/mrvi/statuses/86138044540911618
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:86138208076832768
+published=2011-06-29 18:25:23 
+source=twitter
+title=Old but gold – @aaronkoblin's Bicycle Built for 2,000 collaborative choir is pure genius http://j.mp/fzr4tj #eyeo
+url=http://twitter.com/brainpicker/statuses/86138208076832768
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:86139419437969408
+published=2011-06-29 18:30:12 
+source=twitter
+title=The Johnny Cash Project – collaborative storytelling gold from @aaronkoblin http://j.mp/cG43qg #eyeo
+url=http://twitter.com/brainpicker/statuses/86139419437969408
+
+
+-
+author=jonathanstray
+id=tag:search.twitter.com,2005:86140652911476736
+published=2011-06-29 18:35:06 
+source=twitter
+title=The Johnny Cash project blows my mind. Best Internet-enabled collaborative artwork I've yet seen. Still evolving! http://t.co/nWBxZ42 #eyeo
+url=http://twitter.com/jonathanstray/statuses/86140652911476736
+
+
+-
+author=sfslim
+id=tag:search.twitter.com,2005:86142636641095680
+published=2011-06-29 18:42:59 
+source=twitter
+title=RT @jonathanstray: The Johnny Cash project blows my mind. Best Internet-enabled collaborative artwork I've yet seen. Still evolving! http://t.co/nWBxZ42 #eyeo
+url=http://twitter.com/sfslim/statuses/86142636641095680
+
+
+-
+author=bsoverload
+id=tag:search.twitter.com,2005:86143472200982528
+published=2011-06-29 18:46:18 
+source=twitter
+title=The amazing thing about all the presenters at #eyeo is they're all so open and willing... even eager, to be out done. #generosity -tz
+url=http://twitter.com/bsoverload/statuses/86143472200982528
+
+
+-
+author=shawn_sims_
+id=tag:search.twitter.com,2005:86143484989419521
+published=2011-06-29 18:46:21 
+source=twitter
+title=The Johnny Cash Project by @aaronkoblin is killer!  http://bit.ly/dguuoe  Mechanical Turk music video #eyeo
+url=http://twitter.com/shawn_sims_/statuses/86143484989419521
+
+
+-
+author=heatherknight
+id=tag:search.twitter.com,2005:86144035315650560
+published=2011-06-29 18:48:33 
+source=twitter
+title=RT @justintect: Now watching galloping "buffarantulas" and "dogbears" courtesy of #html5 and #webgl #eyeo
+url=http://twitter.com/heatherknight/statuses/86144035315650560
+
+
+-
+author=_mojuju_
+id=tag:search.twitter.com,2005:86148382476877826
+published=2011-06-29 19:05:49 
+source=twitter
+title=Check out the Johnny Cash project: Internet-enabled collaborative art! http://t.co/YH48YHg #eyeovia @sfslim via @jonathanstray
+url=http://twitter.com/_mojuju_/statuses/86148382476877826
+
+
+-
+author=ritwikdey
+id=tag:search.twitter.com,2005:86151520529301504
+published=2011-06-29 19:18:17 
+source=twitter
+title=“There is no such thing as raw data. Data in any form carries with it presumptions. The same applies to visualization.” #lauraKurgan #eyeo
+url=http://twitter.com/ritwikdey/statuses/86151520529301504
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:86152389194821633
+published=2011-06-29 19:21:44 
+source=twitter
+title=Laura Kurgan and Mark Hansen's project visualizing remittances – money migrants send home – is amazing http://j.mp/kz2i9J #eyeo
+url=http://twitter.com/brainpicker/statuses/86152389194821633
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:86154069009379328
+published=2011-06-29 19:28:25 
+source=twitter
+title=Major props to Lisa Strausfeld for recognizing the crucial role of data journalism today http://j.mp/hAVbfr #eyeo
+url=http://twitter.com/brainpicker/statuses/86154069009379328
+
+
+-
+author=feltron
+id=tag:search.twitter.com,2005:86157324485537792
+published=2011-06-29 19:41:21 
+source=twitter
+title=How to persuade an audience: RT @jkriss: "Here are some dubious graphs of my unfounded theories." - Nicholas Felton #eyeo
+url=http://twitter.com/feltron/statuses/86157324485537792
+
+
+-
+author=ericsoco
+id=tag:search.twitter.com,2005:86158447053250561
+published=2011-06-29 19:45:49 
+source=twitter
+title=Great comment from data journalist from AP in audience: we must 'interview the data.' Are our works presenting data truthfully? #eyeo
+url=http://twitter.com/ericsoco/statuses/86158447053250561
+
+
+-
+author=jkeston
+id=tag:search.twitter.com,2005:86159175226368000
+published=2011-06-29 19:48:42 
+source=twitter
+title=Just wrapping up at Eyeo. I got to speak about and demonstrate the GMS! Looking forward to the Ostracon set at Honey! #eyeo #gms
+url=http://twitter.com/jkeston/statuses/86159175226368000
+
+
+-
+author=kunaldpatel
+id=tag:search.twitter.com,2005:86159221409845249
+published=2011-06-29 19:48:53 
+source=twitter
+title=@brainpicker trying to find you at #eyeo ! Hoping I can say I'm a big fan in person, met 3-4 people I thought were you throughout the week
+url=http://twitter.com/kunaldpatel/statuses/86159221409845249
+
+
+-
+author=nicoles
+id=tag:search.twitter.com,2005:86159983691038720
+published=2011-06-29 19:51:55 
+source=twitter
+title=Hey @eyeofestival! I want to see this as a talk next year! "Lies, damn lies, and data visualization" How to be true/What can go awry #eyeo
+url=http://twitter.com/nicoles/statuses/86159983691038720
+
+
+-
+author=nicoles
+id=tag:search.twitter.com,2005:86159983691038720
+published=2011-06-29 19:51:55 
+source=twitter
+title=Hey @eyeofestival! I want to see this as a talk next year! "Lies, damn lies, and data visualization" How to be true/What can go awry #eyeo
+url=http://twitter.com/nicoles/statuses/86159983691038720
+
+
+-
+author=jkriss
+id=tag:search.twitter.com,2005:86164472871391232
+published=2011-06-29 20:09:45 
+source=twitter
+title=Closing slide at #Eyeo http://instagr.am/p/GoEdn/
+url=http://twitter.com/jkriss/statuses/86164472871391232
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:86164934290964480
+published=2011-06-29 20:11:35 
+source=twitter
+title=Gigantic thanks to @eyeofestival for putting together an amazing & inspiring conf (& letting us attend)! #eyeo
+url=http://twitter.com/core77/statuses/86164934290964480
+
+
+-
+author=core77
+id=tag:search.twitter.com,2005:86164934290964480
+published=2011-06-29 20:11:35 
+source=twitter
+title=Gigantic thanks to @eyeofestival for putting together an amazing & inspiring conf (& letting us attend)! #eyeo
+url=http://twitter.com/core77/statuses/86164934290964480
+
+
+-
+author=zachlieberman
+id=tag:search.twitter.com,2005:86167521803247616
+published=2011-06-29 20:21:52 
+source=twitter
+title=Goodbye eyeo festival.  Super nice times, now back to brazil. Trying to code up some magic on the airplane.
+url=http://twitter.com/zachlieberman/statuses/86167521803247616
+
+
+-
+author=skirrrtalert
+id=tag:search.twitter.com,2005:86173334345228288
+published=2011-06-29 20:44:58 
+source=twitter
+title=@igorclar @domtak @woolypixel  you three should meet up #eyeo ers xoxo
+url=http://twitter.com/skirrrtalert/statuses/86173334345228288
+
+
+-
+author=skirrrtalert
+id=tag:search.twitter.com,2005:86173506739515392
+published=2011-06-29 20:45:39 
+source=twitter
+title=resending because i can't spell RT @skirrrtalert: @igorclark @domtak @woolypixel  you three should meet up #eyeo ers xoxo
+url=http://twitter.com/skirrrtalert/statuses/86173506739515392
+
+
+-
+author=bmcdalt
+id=tag:search.twitter.com,2005:86177508776620032
+published=2011-06-29 21:01:33 
+source=twitter
+title=RT @brainpicker: "Don't start with the reasonable, start with the unreasonable and scale back." @blprnt #eyeo
+url=http://twitter.com/bmcdalt/statuses/86177508776620032
+
+
+-
+author=igorclark
+id=tag:search.twitter.com,2005:86179640506462208
+published=2011-06-29 21:10:02 
+source=twitter
+title=@domtak ha. nice one @skirrrtalert, hello @woolypixel, we're at the walker center & #eyeo event later, let's meet up!
+url=http://twitter.com/igorclark/statuses/86179640506462208
+
+
+-
+author=_akeegan
+id=tag:search.twitter.com,2005:86181028108042240
+published=2011-06-29 21:15:32 
+source=twitter
+title=@woolypixel @feltedsignal  awesome sound project Falling Stars on App Store. #eyeo #showyourshit
+url=http://twitter.com/_akeegan/statuses/86181028108042240
+
+
+-
+author=serial_consign
+id=tag:search.twitter.com,2005:86182324605173761
+published=2011-06-29 21:20:42 
+source=twitter
+title=Just rolled in to #openfield at Walker Art Center with @dymaxion and @160B #eyeo  http://t.co/4hj27Yb
+url=http://twitter.com/serial_consign/statuses/86182324605173761
+
+
+-
+author=flinklabs
+id=tag:search.twitter.com,2005:86184298142642177
+published=2011-06-29 21:28:32 
+source=twitter
+title=RT @neb: #eyeo festival truly the best gathering of digital information & art practitioners I have ever participated in. @databloom sponsor 4 next 1!
+url=http://twitter.com/flinklabs/statuses/86184298142642177
+
+
+-
+author=flight404
+id=tag:search.twitter.com,2005:86194607976747008
+published=2011-06-29 22:09:30 
+source=twitter
+title=As #eyeofestival draws to a close, already looking forward to the next one. Thanks @eyeofestival for a great lineup/conference.
+url=http://twitter.com/flight404/statuses/86194607976747008
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:86205896396505088
+published=2011-06-29 22:54:21 
+source=twitter
+title=Best bathroom wallpaper ever, very meta for #eyeo -- thanks, Walker Art Center!  http://instagr.am/p/Goh2p/
+url=http://twitter.com/brainpicker/statuses/86205896396505088
+
+
+-
+author=adamperer
+id=tag:search.twitter.com,2005:86206667972292608
+published=2011-06-29 22:57:25 
+source=twitter
+title=highlights from an amazing #eyeo: @flight404's colors & particles, @zachlieberman's sounds & lights, and kinect hacking w/ @golan & @kcimc
+url=http://twitter.com/adamperer/statuses/86206667972292608
+
+
+-
+author=mikecreighton
+id=tag:search.twitter.com,2005:86220645746221056
+published=2011-06-29 23:52:58 
+source=twitter
+title=Thanks to all who came! Show Your Shit Recap from #Eyeo Festival: http://t.co/wgMqMJo (Holler back if anything needs mending.)
+url=http://twitter.com/mikecreighton/statuses/86220645746221056
+
+
+-
+author=brainpicker
+id=tag:search.twitter.com,2005:86226198346203136
+published=2011-06-30 00:15:02 
+source=twitter
+title=Oakland Crimespotting – brilliant crime-mapping visualization project by @stamen http://j.mp/j7mch8 #eyeo
+url=http://twitter.com/brainpicker/statuses/86226198346203136
+
+
+-
+author=alignedleft
+id=tag:search.twitter.com,2005:86307070583902208
+published=2011-06-30 05:36:23 
+source=twitter
+title=New friends, conceptual inspiration, and technical mastery. #Eyeo was amazing! Already looking forward to next year.
+url=http://twitter.com/alignedleft/statuses/86307070583902208
+
+
+-
+author=_akeegan
+id=tag:search.twitter.com,2005:86320117696299008
+published=2011-06-30 06:28:14 
+source=twitter
+title=RT @alignedleft: New friends, conceptual inspiration, and technical mastery. #Eyeo was amazing! Already looking forward to next year.
+url=http://twitter.com/_akeegan/statuses/86320117696299008
+
+
+-
+author=voxels
+id=tag:search.twitter.com,2005:86347873763074048
+published=2011-06-30 08:18:32 
+source=twitter
+title=Suggestions for next year's #eyeo http://t.co/RKPY77o /cc @eyeofestival
+url=http://twitter.com/voxels/statuses/86347873763074048
+
+
+-
+author=voxels
+id=tag:search.twitter.com,2005:86347873763074048
+published=2011-06-30 08:18:32 
+source=twitter
+title=Suggestions for next year's #eyeo http://t.co/RKPY77o /cc @eyeofestival
+url=http://twitter.com/voxels/statuses/86347873763074048
+
+
+-
+author=golan
+id=tag:search.twitter.com,2005:86419224851001346
+published=2011-06-30 13:02:03 
+source=twitter
+title=Thanks all at @eyeofestival #eyeo for a great week! For more #kinect hacking, come to http://artandcode.com/three, Oct 21-23 at CMU...
+url=http://twitter.com/golan/statuses/86419224851001346
+
+
+-
+author=golan
+id=tag:search.twitter.com,2005:86419224851001346
+published=2011-06-30 13:02:03 
+source=twitter
+title=Thanks all at @eyeofestival #eyeo for a great week! For more #kinect hacking, come to http://artandcode.com/three, Oct 21-23 at CMU...
+url=http://twitter.com/golan/statuses/86419224851001346
+
+
+-
+author=eyeofestival
+id=tag:search.twitter.com,2005:86469996385013760
+published=2011-06-30 16:23:48 
+source=twitter
+title=Safe and happy traveling back home to you all!  THANKS!!! THANKS!!!
+url=http://twitter.com/eyeofestival/statuses/86469996385013760
+
+
+-
+author=blprnt
+id=tag:search.twitter.com,2005:86474439809712128
+published=2011-06-30 16:41:27 
+source=twitter
+title="And Eyeo could use more critique, for certain." - Agreed. Thanks for taking the time to suggest improvements, Michael. http://bit.ly/jKQNeA
+url=http://twitter.com/blprnt/statuses/86474439809712128
+
+
+-
+author=scottjanousek
+id=tag:search.twitter.com,2005:86480363869839361
+published=2011-06-30 17:05:00 
+source=twitter
+title=O_o #eyeo http://twitpic.com/5j4tem
+url=http://twitter.com/scottjanousek/statuses/86480363869839361
+
+
+-
+author=blprnt
+id=tag:search.twitter.com,2005:86484610967539713
+published=2011-06-30 17:21:52 
+source=twitter
+title=Just about to leave Minneapolis. Thanks to everyone who attended @eyeofestival. Would love to hear feedback in any and all forms.
+url=http://twitter.com/blprnt/statuses/86484610967539713
+
+
+-
+author=heatherknight
+id=tag:search.twitter.com,2005:86494721362497537
+published=2011-06-30 18:02:03 
+source=twitter
+title=Carry on! He's got specially formed foam! RT @scottjanousek Question: Do u a) check ur bot as luggage b) carry on or c) ship? :) #eyeo
+url=http://twitter.com/heatherknight/statuses/86494721362497537
+
+
+-
+author=seb_ly
+id=tag:search.twitter.com,2005:86494935527858177
+published=2011-06-30 18:02:54 
+source=twitter
+title=@heatherknight I would have thought he'd demand a business class seat by now :-) (great to meet you at eyeo :) )@scottjanousek
+url=http://twitter.com/seb_ly/statuses/86494935527858177
+
+
+-
+author=seb_ly
+id=tag:search.twitter.com,2005:86496049027493888
+published=2011-06-30 18:07:19 
+source=twitter
+title=about to leave Minneapolis after a fantastic #eyeo. Thanks so much to @pilotvibe and the team.
+url=http://twitter.com/seb_ly/statuses/86496049027493888
+
+
+-
+author=heatherknight
+id=tag:search.twitter.com,2005:86496096368607232
+published=2011-06-30 18:07:31 
+source=twitter
+title=@seb_ly @scottjanousek Shhh! He's on twitter, momma can't afford that ;-) Lol #eyeo
+url=http://twitter.com/heatherknight/statuses/86496096368607232
+
+
+-
+author=robotinthewild
+id=tag:search.twitter.com,2005:86500128646635520
+published=2011-06-30 18:23:32 
+source=twitter
+title=RT @eyeofestival: Thanks Data & thanks to your programmer!!! RT @robotinthewild: Thank you Greek @eyeofestival Gods!! #eyeo
+url=http://twitter.com/robotinthewild/statuses/86500128646635520
+
+
+-
+author=robotinthewild
+id=tag:search.twitter.com,2005:86500128646635520
+published=2011-06-30 18:23:32 
+source=twitter
+title=RT @eyeofestival: Thanks Data & thanks to your programmer!!! RT @robotinthewild: Thank you Greek @eyeofestival Gods!! #eyeo
+url=http://twitter.com/robotinthewild/statuses/86500128646635520
+
+
+-
+author=wheniwas19
+id=tag:search.twitter.com,2005:86536103510802432
+published=2011-06-30 20:46:29 
+source=twitter
+title=so great to have made new friend, @_akeegan and better acquainted with @mikecreighton at #eyeo
+url=http://twitter.com/wheniwas19/statuses/86536103510802432
+-
