@@ -1,4 +1,4 @@
- /*
+/*
    
   Copyright 2010, Moritz Stefaner
 
@@ -14,9 +14,10 @@
    See the License for the specific language governing permissions and
    limitations under the License.
    
-*/
+ */
 
 package eu.stefaner.revisit {
+
 	import com.swfjunkie.tweetr.data.objects.SearchResultData;
 	import com.swfjunkie.tweetr.utils.TweetUtil;
 
@@ -53,8 +54,8 @@ package eu.stefaner.revisit {
 			td.createdAt = tweet.createdAt;
 			td.userProfileImage = tweet.userProfileImage;
 			td.user = tweet.user;
-			td.userLink = tweet.userLink;	
-			td.userName = tweet.user.split(" ")[0].toLowerCase();	 
+			td.userLink = tweet.userLink;
+			td.userName = tweet.user.split(" ")[0].toLowerCase();
 			return td;
 		}
 
@@ -79,18 +80,18 @@ package eu.stefaner.revisit {
 
 		private function processText() : void {
 			var refRE : RegExp = /[@]+[A-Za-z0-9-_]+/g;
-			var rtRE : RegExp = /(RT |via )[@]+[A-Za-z0-9-_]+/g; 
+			var rtRE : RegExp = /(RT |via )[@]+[A-Za-z0-9-_]+/g;
 			var tempText : String = text;
-			
-			retweets = tempText.match(rtRE); 
+
+			retweets = tempText.match(rtRE);
 			tempText = tempText.replace(rtRE, "");
-			
-			references = tempText.match(refRE); 
-			
+
+			references = tempText.match(refRE);
+
 			simpleText = text;
 			simpleText = simpleText.replace(rtRE, "");
 			simpleText = simpleText.replace(refRE, "");
-			
+
 			simpleText = simpleText.replace(/\W/g, "");
 			simpleText = simpleText.toLowerCase();
 		}
