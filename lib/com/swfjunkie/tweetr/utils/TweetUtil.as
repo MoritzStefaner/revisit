@@ -349,8 +349,9 @@ package com.swfjunkie.tweetr.utils {
 				year = tp[7];
 			}
 			
+			trace("TIME ZONE " +time.timezoneOffset);
 			time.setUTCFullYear(year, month, date);
-			time.setUTCHours(hour-5, minutes, seconds);
+			time.setUTCHours(hour, minutes, seconds);
 			return time;
 		}
 
