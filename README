@@ -2,11 +2,11 @@ revisit
 
 a real-time visualization of the latest twitter messages (tweets) around a specific topic. Use it create your own twitter wall at a conference or an ambient display at your company or whatever other idea you come up with. In contrast to other twitterwalls, it provides a sense of the temporal dynamics in the twitter stream, and emphasizes the conversational threads established by retweets and @replies.
 
-Find more info at http://moritz.stefaner.eu/projects/revisit-twitter-visualization/
+Find more info at http://truth-and-beauty.net/projects/revisit/
 
 --
 
-If you want to use this distribution to create an installation or a twitter wall, just customize bin/index_standalone.html according to your needs. Some caveats: The "showOnlyToday" option does not recognize when you run the installtion for multiple days. Also, I have not tested extensively for memory leaks etc. so you might have to restart the installation every other day or so.
+If you want to use this distribution to create an installation or a twitter wall, just customize bin/index_standalone.html according to your needs. Some caveats: The "showOnlyToday" option does not recognize when you run the installation for multiple days. Also, I have not tested extensively for memory leaks etc. so you might have to restart the installation every other day or so.
 
 --
 
